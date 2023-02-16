@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "kKpG1BQKI8kB9G29OB40zvvrQHM",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "8EJlkuLJqSGkl6OFga-SKdsN-LM",
+            "id": "RS2zY3VedHc",
+            "snippet": {
+                "publishedAt": "2022-06-13T12:30:03Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' @ ‘Proof’ Live 20220613",
+                "description": "Share your favorite #MyBTStory\n👉https://yt.be/MyBTStoryOnShorts\n\n0:00 #MyBTStory \n1:17 share your fav BTS story\n1:33 Only on YouTube Shorts\n\n\nCredits:\nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Kim Eunki, Lee Youngwoo\n2nd AC: Youngseo Park, Eunil Lee\n\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Linda Nhem\nAssistant Production Supervisor / Travel Coordinator: Emily Diaz\nTravel Coordinator: Veron\n\n[BTS]\nCREATIVE LEAD: Nicole Kim\nVISUAL CREATIVE: Sunkyoung Lee, Gaeun Kim, Leehyun KIM, Yeonhwa Cha\nA&R: Daye Shin, Hankyul Yoo\nSOUND LAB: Yang Ga, Wooyeong Jeong, Younsoo Lee, Yujeong Son\nBRAND EXPERIENCE: LONETONE, Hyeri Lee, Suyeon Jung\nMARKETING: Hyejin Lee, Woosun Choi\nARTIST MANAGEMENT: Subin Kim, Jungmin Lee, Juntae Park, Hyeonki Lee, Daeseong Jeong\n\n[Anderson .Paak] \nFullstop Management: Anna Savage\nManagement/Stylist: Krystal Miles\nMake Up Artist: Adrienne Sanchez\nDrum Technician: Kyle Rodgers\nGrooming: Uriel Buenrostro\n\n[Band]\nMusical Director: Duane Benjamin\nBGV Director: Dedrick Bonner\nEngineer: Erik Reichers\nAssistant: Mel Collins\n\nKeys: Adam Bravo\nBass: Lawrence Shaw\nGuitar: Alec Lehrman\nDrums: Keynon McBurney\nVocalists: Antwone Barnes, Bryce Charles, Marquell Clayton, Summer Greer\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n#YetToCome #BTS_Proof #TheMostBeautifulMoment #BTS #방탄소년단",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RS2zY3VedHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RS2zY3VedHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RS2zY3VedHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RS2zY3VedHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RS2zY3VedHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "tags": [
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "알엠",
+                    "RM",
+                    "슈가",
+                    "SUGA",
+                    "제이홉",
+                    "jhope",
+                    "지민",
+                    "정국",
+                    "k-pop",
+                    "방탄",
+                    "j-hope",
+                    "Jung Kook",
+                    "Jimin",
+                    "BTS V",
+                    "Jin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' @ ‘Proof’ Live 20220613",
+                    "description": "Share your favorite #MyBTStory\n👉https://yt.be/MyBTStoryOnShorts\n\n0:00 #MyBTStory \n1:17 share your fav BTS story\n1:33 Only on YouTube Shorts\n\n\nCredits:\nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Kim Eunki, Lee Youngwoo\n2nd AC: Youngseo Park, Eunil Lee\n\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Linda Nhem\nAssistant Production Supervisor / Travel Coordinator: Emily Diaz\nTravel Coordinator: Veron\n\n[BTS]\nCREATIVE LEAD: Nicole Kim\nVISUAL CREATIVE: Sunkyoung Lee, Gaeun Kim, Leehyun KIM, Yeonhwa Cha\nA&R: Daye Shin, Hankyul Yoo\nSOUND LAB: Yang Ga, Wooyeong Jeong, Younsoo Lee, Yujeong Son\nBRAND EXPERIENCE: LONETONE, Hyeri Lee, Suyeon Jung\nMARKETING: Hyejin Lee, Woosun Choi\nARTIST MANAGEMENT: Subin Kim, Jungmin Lee, Juntae Park, Hyeonki Lee, Daeseong Jeong\n\n[Anderson .Paak] \nFullstop Management: Anna Savage\nManagement/Stylist: Krystal Miles\nMake Up Artist: Adrienne Sanchez\nDrum Technician: Kyle Rodgers\nGrooming: Uriel Buenrostro\n\n[Band]\nMusical Director: Duane Benjamin\nBGV Director: Dedrick Bonner\nEngineer: Erik Reichers\nAssistant: Mel Collins\n\nKeys: Adam Bravo\nBass: Lawrence Shaw\nGuitar: Alec Lehrman\nDrums: Keynon McBurney\nVocalists: Antwone Barnes, Bryce Charles, Marquell Clayton, Summer Greer\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n#YetToCome #BTS_Proof #TheMostBeautifulMoment #BTS #방탄소년단"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

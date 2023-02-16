@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xo-iqC-Wtsw3RsBI2dG_zjvonSU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "TTJZ1nFXYhlorAaOktnc_YeiVjU",
+            "id": "kXpOEzNZ8hQ",
+            "snippet": {
+                "publishedAt": "2022-06-10T03:59:38Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV",
+                "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV\n\n\nCredits: \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Kim Eunki, Lee Youngwoo\n2nd AC: Youngseo Park, Eunil Lee\n\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Linda Nhem\nAssistant Production Supervisor / Travel Coordinator: Emily Diaz\nTravel Coordinator: Veronica Zin \n1st AD: Jesse Hays\n2nd AD: Mallory Chevalier \nLocation Manager: Laura Dominguez \nLocation Assistant: Ana Reyes\nSite Rep: John Miller\n\n1st AC: Victor Chon\n2nd AC: Massy Valenzuela-Castaneda \nDrone: Alex Castillo \nDIT: Jack Damon \nTechnocrane: Maurico Rodriguez, Harrison Reilly, Erik Covarrubias\nVTR / Playback: Avery Stone Fish\nVTR Assistant: Jeffery Petro\nPlayback: Kai Morrison \n\nGaffer: Kyle Bryson\nBest Boy Electric: Mark Mann \nElectric: Anthony Ortiz, Gerardo “Junior” Lara, Andrew Lopez \n\nKey Grip: Wadsworth Peters\nBest Boy Grip: Blake Danchik \nGrip: Richard Estrella, James Brazil \n\nProduction Designer: Olivia McManus \nArt Director: Hensel Martinez \nArt Coordinator: Sara Barrett \nProp Mater / Shopper: Amanda Hume\nLeadman: Logan Blue\nSet Dresser: Kyle Kaminsky\nDresser / Driver: Kris Ingram\nGreens: Brooke Benko, Nina Gonzales\nSchool Bus Transportation: Marlon Sosa\n\nGang Boss: Rob Newcombe\nMoho Drivers: Stephen Hinze, Kevin Kasner, Rich Seitz, James “Bubba” Bottoni\nStunt Coordinator: Nhan Vo\nCraft Services: Danny Tilbury, Vic Godales\nSet Medic: Dan DeBaun\nCCM: Matt Moss\nCCA: Niko Galvez, Kasee Shambora\nLocal Artist Security: Samuel Ford, Sully Crew, Raul Estevane, Pete Mulryan\n\nPA: Adam Rosenberg, Joe Vizzini, Jason Vizzini, AJ, EJ Smith, Allen Amehi, Isiah Quince, Chris Fambro, Naushay Turner, Dariana Fly Buchatska, Cathy Kim, Ashley Lee, Bianca Yi, So Yun Um, Iris Jang, Sunny Park, Austin Barrett, Hollis Dohr, Jacqueline Nytes, Anna Tancredi, Sierra Badua, Dani Calderon \n\nDI: LUCID COLOUR\nCOLORIST: Wonseok Ko\nDI CREW: Jaeyeon Baek, Dain Kim, Serae Hong\nDI PRODUCER: Sooyun Hyun\n\nVFX: PLASTIC BEACH\nVFX Supervisor: OHZEON\nVFX Producer: Geoung Jeong, Ahn Sohyun\n3D Artist: Kim Doyeon, Jeon Jiwon, Kim Dongjin, Kim Hyeji, Lee Jeonghwa\n2D Artist: Lee Hyunjun, Jang Kyutae\nFX Artist: We Jungin, Kim Yumin\nConcept Art: San Goh\n\nSpecial thanks to San Bernardino County Film Office\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #방탄소년단 #YetToCome #BTS_Proof #TheMostBeautifulMoment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV",
+                    "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV\n\n\nCredits: \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: Eumko\nFocus Puller: Kim Eunki, Lee Youngwoo\n2nd AC: Youngseo Park, Eunil Lee\n\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Linda Nhem\nAssistant Production Supervisor / Travel Coordinator: Emily Diaz\nTravel Coordinator: Veronica Zin \n1st AD: Jesse Hays\n2nd AD: Mallory Chevalier \nLocation Manager: Laura Dominguez \nLocation Assistant: Ana Reyes\nSite Rep: John Miller\n\n1st AC: Victor Chon\n2nd AC: Massy Valenzuela-Castaneda \nDrone: Alex Castillo \nDIT: Jack Damon \nTechnocrane: Maurico Rodriguez, Harrison Reilly, Erik Covarrubias\nVTR / Playback: Avery Stone Fish\nVTR Assistant: Jeffery Petro\nPlayback: Kai Morrison \n\nGaffer: Kyle Bryson\nBest Boy Electric: Mark Mann \nElectric: Anthony Ortiz, Gerardo “Junior” Lara, Andrew Lopez \n\nKey Grip: Wadsworth Peters\nBest Boy Grip: Blake Danchik \nGrip: Richard Estrella, James Brazil \n\nProduction Designer: Olivia McManus \nArt Director: Hensel Martinez \nArt Coordinator: Sara Barrett \nProp Mater / Shopper: Amanda Hume\nLeadman: Logan Blue\nSet Dresser: Kyle Kaminsky\nDresser / Driver: Kris Ingram\nGreens: Brooke Benko, Nina Gonzales\nSchool Bus Transportation: Marlon Sosa\n\nGang Boss: Rob Newcombe\nMoho Drivers: Stephen Hinze, Kevin Kasner, Rich Seitz, James “Bubba” Bottoni\nStunt Coordinator: Nhan Vo\nCraft Services: Danny Tilbury, Vic Godales\nSet Medic: Dan DeBaun\nCCM: Matt Moss\nCCA: Niko Galvez, Kasee Shambora\nLocal Artist Security: Samuel Ford, Sully Crew, Raul Estevane, Pete Mulryan\n\nPA: Adam Rosenberg, Joe Vizzini, Jason Vizzini, AJ, EJ Smith, Allen Amehi, Isiah Quince, Chris Fambro, Naushay Turner, Dariana Fly Buchatska, Cathy Kim, Ashley Lee, Bianca Yi, So Yun Um, Iris Jang, Sunny Park, Austin Barrett, Hollis Dohr, Jacqueline Nytes, Anna Tancredi, Sierra Badua, Dani Calderon \n\nDI: LUCID COLOUR\nCOLORIST: Wonseok Ko\nDI CREW: Jaeyeon Baek, Dain Kim, Serae Hong\nDI PRODUCER: Sooyun Hyun\n\nVFX: PLASTIC BEACH\nVFX Supervisor: OHZEON\nVFX Producer: Geoung Jeong, Ahn Sohyun\n3D Artist: Kim Doyeon, Jeon Jiwon, Kim Dongjin, Kim Hyeji, Lee Jeonghwa\n2D Artist: Lee Hyunjun, Jang Kyutae\nFX Artist: We Jungin, Kim Yumin\nConcept Art: San Goh\n\nSpecial thanks to San Bernardino County Film Office\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com\n\n\n#BTS #방탄소년단 #YetToCome #BTS_Proof #TheMostBeautifulMoment"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

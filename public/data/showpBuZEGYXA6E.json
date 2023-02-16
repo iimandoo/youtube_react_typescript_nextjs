@@ -1,0 +1,68 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HRkZD8Vx5PYbxufNeKVW0fW1OpQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "b1lKIOpFY1Ss862Mn5X0arBk5cc",
+            "id": "pBuZEGYXA6E",
+            "snippet": {
+                "publishedAt": "2018-08-24T09:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) 'IDOL' Official MV",
+                "description": "BTS (방탄소년단) 'IDOL' Official MV\n\n\n\nDirector : YongSeok Choi (Lumpens)\nAssistant Director : Guzza, MinJe Jeong, HyeJeong Park (Lumpens)\nDirector of Photography : HyunWoo Nam(GDW)\nGaffer : HyunSuk Song (Real lighting)\nArt Director : JinSil Park, Bona Kim (MU:E)\nArt Team : HyunSeung Lee, YeMin Ahn\nConstruction Manager : SukKi Song\nKey Scenic artist : Yeongjun Hong, KwangHyun Lim, SangHyeok Seo\nShow Light : SungKeun Ma (A&T light)\nLift Operating : Jong Kang\n\n\nBigHit Entertainment. Rights are reserved selectively in the video.\nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea\n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit\n\n\n#BTS #방탄소년단 #IDOL #아이돌 #LOVE_YOURSELF #Answer #MV #얼쑤 #URSOO",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "BTS",
+                    "방탄소년단",
+                    "IDOL",
+                    "아이돌",
+                    "LOVE_YOURSELF",
+                    "Answer",
+                    "얼쑤",
+                    "빅히트",
+                    "bighit"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'IDOL' Official MV",
+                    "description": "BTS (방탄소년단) 'IDOL' Official MV\n\n\n\nDirector : YongSeok Choi (Lumpens)\nAssistant Director : Guzza, MinJe Jeong, HyeJeong Park (Lumpens)\nDirector of Photography : HyunWoo Nam(GDW)\nGaffer : HyunSuk Song (Real lighting)\nArt Director : JinSil Park, Bona Kim (MU:E)\nArt Team : HyunSeung Lee, YeMin Ahn\nConstruction Manager : SukKi Song\nKey Scenic artist : Yeongjun Hong, KwangHyun Lim, SangHyeok Seo\nShow Light : SungKeun Ma (A&T light)\nLift Operating : Jong Kang\n\n\nBigHit Entertainment. Rights are reserved selectively in the video.\nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea\n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit\n\n\n#BTS #방탄소년단 #IDOL #아이돌 #LOVE_YOURSELF #Answer #MV #얼쑤 #URSOO"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

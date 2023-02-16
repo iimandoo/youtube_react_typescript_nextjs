@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3aTjYj9DplWeULqDYEqNS2IWtys",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JJUZ7D-cYte68j7mK-r9uwZXxQw",
+            "id": "Tvj6wY1ifyk",
+            "snippet": {
+                "publishedAt": "2023-02-10T11:34:32Z",
+                "channelId": "UCu976UrWTIh3-3c8WImzVFA",
+                "title": "하이브와 손잡은 이수만, 하이브 vs 카카오, SM 쟁탈전(ENG)",
+                "description": "※ English CC available!\n\n이수만 전 SM 총괄 프로듀서가 하이브에 도움을 요청했습니다.\n하이브는 SM을 인수하기 위해 움직였는데요.\n이에 하이브와 카카오가 SM을 가지기 위한 전쟁이 시작되었습니다.\n어쩌다 SM에 이런 일이 일어난 것인지,\n이로 인해 에스파, NCT 등 SM 아이돌들은 어떻게 될 것인지 함께 알아볼까요?\n밝혀지지 않은 루머를 퍼트리는 댓글이나 \n무분별한 악성 댓글은 삭제될 수 있음을 알려드립니다.\n\nFormer SM exec producer Lee Soo-man asked HYBE for help.\nHYBE started to take action to acquire SM.\nThis led to a war between HYBE and Kakao over SM.\nHow did something like this end up happening to SM?\nAnd what will happen to SM idols, including aespa and NCT, as a result?\nLet's find out!\nPlease note that we may delete any comments underneath this video\nthat are spreading unconfirmed rumors or being imprudently malicious.\n\n#SM #하이브 #이수만\n\n\n● 루머/억까를 제보하려면? 아래 링크를 활용해주세요!\nhttps://forms.gle/L9gc2bk8Fkiy9u8QA\n\n● 루머/억까 해명 영상이 아닌 기타 영상을 요청하실때는 아래 링크를 활용해주세요!\nhttps://forms.gle/5zPwMGF3ypfPB9TQ9\n\n위 양식대로 요청을 해주시면 저희가 자세히 검토해보도록 하겠습니다!\n단, 수많은 영상 요청들과 부족한 반박자료 등의 원인으로 인해 영상 제작이 힘들어질수도 있다는 점 양해 부탁드립니다.\n\n\n● Click the link below to report absurd rumors/criticisms about a certain idol!\nhttps://forms.gle/L9gc2bk8Fkiy9u8QA\n\n● Click the link below to request other videos, besides videos that clear up rumors/allegations!\nhttps://forms.gle/5zPwMGF3ypfPB9TQ9\n\nWe will thoroughly go over the requests that you submit through the links above!\nHowever, please understand that due to too many requests or lack of information,\nwe might not be able to make videos on all the requested topics!\n\n\n💖 두유람에서 또 보고 싶은 아이돌이나 Kpop 소식이 있으면\ndoyouramforyou@gmail.com 으로 메일 보내주세요!\nIf there is any idol or any Kpop news you want to know more about,\nemail us at doyouramforyou@gmail.com!\n\n[Link to Doyouram's New Chatroom (Discord)]\n● https://discord.gg/7s35vTy7WM    \n- Follow this link to join the chatroom. You can give us feedback on our videos and hang out with Kpop fans all around the world!\n\n[두유람 오픈채팅방 링크 (카카오톡)]\n● https://open.kakao.com/o/gKQsEakc    \n- 두유람 오픈채팅방에서 전세계 Kpop 팬들과 함께 영상에 대한 피드백을 자유롭게 남겨주세요!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Doyouram - Everyday K-Culture",
+                "tags": [
+                    "sm",
+                    "에스엠",
+                    "하이브",
+                    "hybe",
+                    "hybe labels",
+                    "카카오",
+                    "kakao",
+                    "이수만",
+                    "방시혁",
+                    "하이브 sm",
+                    "하이브 주가",
+                    "sm 주가",
+                    "하이브 인수",
+                    "하이브 sm 인수"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "하이브와 손잡은 이수만, 하이브 vs 카카오, SM 쟁탈전(ENG)",
+                    "description": "※ English CC available!\n\n이수만 전 SM 총괄 프로듀서가 하이브에 도움을 요청했습니다.\n하이브는 SM을 인수하기 위해 움직였는데요.\n이에 하이브와 카카오가 SM을 가지기 위한 전쟁이 시작되었습니다.\n어쩌다 SM에 이런 일이 일어난 것인지,\n이로 인해 에스파, NCT 등 SM 아이돌들은 어떻게 될 것인지 함께 알아볼까요?\n밝혀지지 않은 루머를 퍼트리는 댓글이나 \n무분별한 악성 댓글은 삭제될 수 있음을 알려드립니다.\n\nFormer SM exec producer Lee Soo-man asked HYBE for help.\nHYBE started to take action to acquire SM.\nThis led to a war between HYBE and Kakao over SM.\nHow did something like this end up happening to SM?\nAnd what will happen to SM idols, including aespa and NCT, as a result?\nLet's find out!\nPlease note that we may delete any comments underneath this video\nthat are spreading unconfirmed rumors or being imprudently malicious.\n\n#SM #하이브 #이수만\n\n\n● 루머/억까를 제보하려면? 아래 링크를 활용해주세요!\nhttps://forms.gle/L9gc2bk8Fkiy9u8QA\n\n● 루머/억까 해명 영상이 아닌 기타 영상을 요청하실때는 아래 링크를 활용해주세요!\nhttps://forms.gle/5zPwMGF3ypfPB9TQ9\n\n위 양식대로 요청을 해주시면 저희가 자세히 검토해보도록 하겠습니다!\n단, 수많은 영상 요청들과 부족한 반박자료 등의 원인으로 인해 영상 제작이 힘들어질수도 있다는 점 양해 부탁드립니다.\n\n\n● Click the link below to report absurd rumors/criticisms about a certain idol!\nhttps://forms.gle/L9gc2bk8Fkiy9u8QA\n\n● Click the link below to request other videos, besides videos that clear up rumors/allegations!\nhttps://forms.gle/5zPwMGF3ypfPB9TQ9\n\nWe will thoroughly go over the requests that you submit through the links above!\nHowever, please understand that due to too many requests or lack of information,\nwe might not be able to make videos on all the requested topics!\n\n\n💖 두유람에서 또 보고 싶은 아이돌이나 Kpop 소식이 있으면\ndoyouramforyou@gmail.com 으로 메일 보내주세요!\nIf there is any idol or any Kpop news you want to know more about,\nemail us at doyouramforyou@gmail.com!\n\n[Link to Doyouram's New Chatroom (Discord)]\n● https://discord.gg/7s35vTy7WM    \n- Follow this link to join the chatroom. You can give us feedback on our videos and hang out with Kpop fans all around the world!\n\n[두유람 오픈채팅방 링크 (카카오톡)]\n● https://open.kakao.com/o/gKQsEakc    \n- 두유람 오픈채팅방에서 전세계 Kpop 팬들과 함께 영상에 대한 피드백을 자유롭게 남겨주세요!"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT4M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "116347",
+                "likeCount": "2018",
+                "favoriteCount": "0",
+                "commentCount": "1036"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

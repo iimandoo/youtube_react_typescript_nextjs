@@ -1,0 +1,129 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "I8uZRF5terTv7NgCeCEG1NwGoqU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "YDnVMZ3xJTtAvhJidjC6htoD5BE",
+            "id": "F0B7HDiY-10",
+            "snippet": {
+                "publishedAt": "2022-08-22T09:00:04Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "IVE 아이브 'After LIKE' MV",
+                "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "tags": [
+                    "Kpop",
+                    "girl group",
+                    "1theK",
+                    "Starshiptv",
+                    "starship",
+                    "뮤비",
+                    "티져",
+                    "MV",
+                    "Teaser",
+                    "신곡",
+                    "new",
+                    "song",
+                    "한류",
+                    "idol",
+                    "hallyu",
+                    "ロエン",
+                    "ミュージック",
+                    "ミュージックビデオ",
+                    "アイドル",
+                    "韓流",
+                    "韓国",
+                    "아이돌",
+                    "아이브",
+                    "IVE",
+                    "アイヴ",
+                    "LOGO",
+                    "MOTION",
+                    "로고",
+                    "유진",
+                    "원영",
+                    "가을",
+                    "레이",
+                    "리즈",
+                    "이서",
+                    "YUJIN",
+                    "GAEUL",
+                    "REI",
+                    "WONYOUNG",
+                    "LIZ",
+                    "LEESEO",
+                    "ユジン",
+                    "ガウル",
+                    "レイ",
+                    "ウォニョン",
+                    "リズ",
+                    "イソ",
+                    "After LIKE",
+                    "애프터라이크",
+                    "my satisfaction",
+                    "티저",
+                    "teaser",
+                    "뮤직비디오",
+                    "mv",
+                    "music video",
+                    "Iwillsurvive"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "IVE 아이브 'After LIKE' MV",
+                    "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "175646744",
+                "likeCount": "2468481",
+                "favoriteCount": "0",
+                "commentCount": "203381"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3KBdgoc2HNrLCAvbFKyovpAXf14",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "vebtC9dpiCpoReMKjpfa4FJ7Hoo",
+            "id": "Bo2aD_I7-1U",
+            "snippet": {
+                "publishedAt": "2022-04-11T14:00:05Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "IVE 아이브 'LOVE DIVE' DANCE PRACTICE",
+                "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IVE",
+                "tags": [
+                    "Kpop",
+                    "girl group",
+                    "1theK",
+                    "Starshiptv",
+                    "starship",
+                    "뮤비",
+                    "티져",
+                    "MV",
+                    "Teaser",
+                    "신곡",
+                    "new",
+                    "song",
+                    "한류",
+                    "idol",
+                    "hallyu",
+                    "ロエン",
+                    "ミュージック",
+                    "ミュージックビデオ",
+                    "アイドル",
+                    "韓流",
+                    "韓国",
+                    "아이돌",
+                    "아이브",
+                    "IVE",
+                    "アイヴ",
+                    "LOGO",
+                    "MOTION",
+                    "로고",
+                    "유진",
+                    "원영",
+                    "가을",
+                    "레이",
+                    "리즈",
+                    "이서",
+                    "YUJIN",
+                    "GAEUL",
+                    "REI",
+                    "WONYOUNG",
+                    "LIZ",
+                    "LEESEO",
+                    "ユジン",
+                    "ガウル",
+                    "レイ",
+                    "ウォニョン",
+                    "リズ",
+                    "イソ",
+                    "11",
+                    "일레븐",
+                    "eleven",
+                    "take it",
+                    "테이킷",
+                    "테이크잇",
+                    "팬클럽",
+                    "fanclub",
+                    "official",
+                    "dive",
+                    "다이브",
+                    "photoshoot",
+                    "behind",
+                    "Behind the scenes",
+                    "아이브온",
+                    "IVE ON",
+                    "비하인드",
+                    "러브다이브",
+                    "LOVE DIVE",
+                    "댄스프렉티스",
+                    "안무영상",
+                    "안무연습",
+                    "DANCE PRACTICE",
+                    "안무",
+                    "연습영상",
+                    "choreography"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "IVE 아이브 'LOVE DIVE' DANCE PRACTICE",
+                    "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "27180616",
+                "likeCount": "558626",
+                "favoriteCount": "0",
+                "commentCount": "7637"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

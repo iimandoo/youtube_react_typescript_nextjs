@@ -1,0 +1,78 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7S-jVwCYNfSHrt-Lqi65au8ymkI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "KNHFWua7xCAOHl2yZTSREtiV89c",
+            "id": "0vmuBakl0Z0",
+            "snippet": {
+                "publishedAt": "2023-01-02T07:45:00Z",
+                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+                "title": "[2022 GMA] IVE (아이브)_Intro + LOVE DIVE + After LIKE",
+                "description": "Play Again, Play GMA\nIntro + LOVE DIVE + After LIKE by IVE (아이브) in 2022 GMA\n\n#GMA #2022GMA #GENIEMUSICAWARDS #지니뮤직어워드",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "GENIE MUSIC",
+                "tags": [
+                    "지니뮤직",
+                    "Genie Music",
+                    "뮤직비디오",
+                    "Music Video",
+                    "kpop",
+                    "Korean Music"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[2022 GMA] IVE (아이브)_Intro + LOVE DIVE + After LIKE",
+                    "description": "Play Again, Play GMA\nIntro + LOVE DIVE + After LIKE by IVE (아이브) in 2022 GMA\n\n#GMA #2022GMA #GENIEMUSICAWARDS #지니뮤직어워드"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT7M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "regionRestriction": {
+                    "blocked": ["JP"]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "174441",
+                "likeCount": "5868",
+                "favoriteCount": "0",
+                "commentCount": "139"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

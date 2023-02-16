@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "JaqzlD32tfUM1pm6MD8Imj9l7k4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "yh_S8NZUc6OFgcGrFHy1LAf5JzY",
+            "id": "mBXBOLG06Wc",
+            "snippet": {
+                "publishedAt": "2023-02-06T08:58:10Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "부석순 (SEVENTEEN) '파이팅 해야지 (Feat. 이영지)' Official MV",
+                "description": "부석순 (SEVENTEEN) '파이팅 해야지 (Feat. 이영지)' Official MV\n \n#부석순 #BSS\n#SECONDWIND\n#파이팅해야지 #BSS_Fighting\n\nCredits:\nPRODUCTION | BANGJAEYEOB FILM\n\nDIRECTOR | BANG JAEYEOB @BANGJAEYEOB FILM\nEDIT | BANGJAEYEOB FILM\nPD | MINJAE KIM\nAD | NANY KIM, SARO KIM, ANNA KIM, HYEJI KIM\n\nDOP | JINHYUK LEE\nFOCUS PULLER | KANG HONG, GWANGSU LEE\n2nd AC | SEUNGGYU RYU\nDIT | GUNWOO JEONG\n3rd AC | KYUNGUI HONG\n\nJIMMY JIB OPERATOR | YOONGU JI\nJIMMY JIB ASSISTANT | JINHO YOO, EUNTAEK BAE\n\nLIGHTING DIRECTOR | JONGHWAN OH\n1st: HYEONGGYOON KIM\n2nd: JEONGHEE SON, KYUNGHWAN LEE\n3rd: BEOMSEOK CHOI, JUHO JEONG, HEEWOOK JEONG\n4th: JAEUNG YOON, BEOMYOON AHN\n\nSHOW LIGHTING | JSHOW COMPANY\n\nPRODUCTION DESIGNER / ART DIRECTOR | Mu:E\nASSISTANT ART TEAM | AYEONG CHOI, MINJUNG KIM @Mu:E\nART-TEAM MANAGER | ILHO HEO @Mu:E\nTEAM Mu:E | JOOHO JEONG, TAE-GWAN NAM, DAEYOUNG KIM, SANGWON CHA\n\nSPECIAL EFFECT | DRAGON\nREPRESENTATIVE | CHOULYOUNG PARK\nHEAD OF DEPARTMENT | WONJUN OH, JAESUNG PARK\nTEAM LEADER | CHONGYOUNG SEOL\nTEAM MEMBER | YOUNGMIN PARK, JUNHAK LEE\n\nARTIST STYLIST | CHOI YOUNGHOE, KANG MINJEE @NINEONE\n\nSTYLIST | HYESUN SHIN\nSTYLE TEAM | YOUNGHEE SHIN, KWANGWON CHOI, WONJUN JO, MOONHYUK CHOI, HYERIM IM, KKIRI\n\nDI | LUCID COLOUR\nCOLORIST | JIYUN YEOM\nDI CREW | SOMI NA, SUHYEON BAE, MIRIM LEE, JIWON SEO, EUNSEO CHOI, HYEONSONG KO\nDI PRODUCER | ONEW KIM\n\n2D COMPOSITING | CAPRA PICTURES\n3D VFX | GANGHO JO\n\nDANCERS | JI DAEHYEON, PARK JONGHO, JEONG YEONGJIN, KANG SANGJUN, KIM JINWOOK, LEE NAMYOON, KANG SEONGCHAN, HWANG GYUHONG\n\nWELCHI, JINNY LEE, SEWON, INYOUNG, SIHYUN, HERR, HYEONSEO, JINSU, COBALTBLUE, GWANGSIK, NOI, GWANWOO, RAPHAEL, EUNCHANKIM, SEUNGHUN, POEM, SEUNGYEON, RUFF, DONGKEY, KIMYEWON, SUNGYONG, PA RANG, HERION, HEEJUN, MINGYU\n\nACTORS |\nOFFICE: KWANGHEE PARK\nRACER: JUBONG PARK, JEONGHOON LEE\nRESEARCHER: JUBONG PARK, WOOHYUN JIN\n\nSUPPORT TEAM LEAD | KYOUNGJIN LEE\nSUPPORT TEAM | JUBONG PARK, JEONGHOON LEE, WOOHYEON JIN\n\nConnect with SEVENTEEN\n\nOfficial Homepage : http://www.seventeen-17.com\nOfficial YouTube : https://www.youtube.com/pledis17\nOfficial Twitter : https://twitter.com/pledis_17\nOfficial Instagram : http://www.instagram.com/saythename_17\nOfficial Facebook : https://www.facebook.com/seventeennews\nOfficial TikTok : https://www.tiktok.com/@seventeen17_official\nOfficial Weverse : https://www.weverse.io/seventeen\nOfficial Fancafe : http://cafe.daum.net/pledis-17\n\nⓒ PLEDIS Entertainment. All Rights Reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "부석순 (SEVENTEEN) '파이팅 해야지 (Feat. 이영지)' Official MV",
+                    "description": "부석순 (SEVENTEEN) '파이팅 해야지 (Feat. 이영지)' Official MV\n \n#부석순 #BSS\n#SECONDWIND\n#파이팅해야지 #BSS_Fighting\n\nCredits:\nPRODUCTION | BANGJAEYEOB FILM\n\nDIRECTOR | BANG JAEYEOB @BANGJAEYEOB FILM\nEDIT | BANGJAEYEOB FILM\nPD | MINJAE KIM\nAD | NANY KIM, SARO KIM, ANNA KIM, HYEJI KIM\n\nDOP | JINHYUK LEE\nFOCUS PULLER | KANG HONG, GWANGSU LEE\n2nd AC | SEUNGGYU RYU\nDIT | GUNWOO JEONG\n3rd AC | KYUNGUI HONG\n\nJIMMY JIB OPERATOR | YOONGU JI\nJIMMY JIB ASSISTANT | JINHO YOO, EUNTAEK BAE\n\nLIGHTING DIRECTOR | JONGHWAN OH\n1st: HYEONGGYOON KIM\n2nd: JEONGHEE SON, KYUNGHWAN LEE\n3rd: BEOMSEOK CHOI, JUHO JEONG, HEEWOOK JEONG\n4th: JAEUNG YOON, BEOMYOON AHN\n\nSHOW LIGHTING | JSHOW COMPANY\n\nPRODUCTION DESIGNER / ART DIRECTOR | Mu:E\nASSISTANT ART TEAM | AYEONG CHOI, MINJUNG KIM @Mu:E\nART-TEAM MANAGER | ILHO HEO @Mu:E\nTEAM Mu:E | JOOHO JEONG, TAE-GWAN NAM, DAEYOUNG KIM, SANGWON CHA\n\nSPECIAL EFFECT | DRAGON\nREPRESENTATIVE | CHOULYOUNG PARK\nHEAD OF DEPARTMENT | WONJUN OH, JAESUNG PARK\nTEAM LEADER | CHONGYOUNG SEOL\nTEAM MEMBER | YOUNGMIN PARK, JUNHAK LEE\n\nARTIST STYLIST | CHOI YOUNGHOE, KANG MINJEE @NINEONE\n\nSTYLIST | HYESUN SHIN\nSTYLE TEAM | YOUNGHEE SHIN, KWANGWON CHOI, WONJUN JO, MOONHYUK CHOI, HYERIM IM, KKIRI\n\nDI | LUCID COLOUR\nCOLORIST | JIYUN YEOM\nDI CREW | SOMI NA, SUHYEON BAE, MIRIM LEE, JIWON SEO, EUNSEO CHOI, HYEONSONG KO\nDI PRODUCER | ONEW KIM\n\n2D COMPOSITING | CAPRA PICTURES\n3D VFX | GANGHO JO\n\nDANCERS | JI DAEHYEON, PARK JONGHO, JEONG YEONGJIN, KANG SANGJUN, KIM JINWOOK, LEE NAMYOON, KANG SEONGCHAN, HWANG GYUHONG\n\nWELCHI, JINNY LEE, SEWON, INYOUNG, SIHYUN, HERR, HYEONSEO, JINSU, COBALTBLUE, GWANGSIK, NOI, GWANWOO, RAPHAEL, EUNCHANKIM, SEUNGHUN, POEM, SEUNGYEON, RUFF, DONGKEY, KIMYEWON, SUNGYONG, PA RANG, HERION, HEEJUN, MINGYU\n\nACTORS |\nOFFICE: KWANGHEE PARK\nRACER: JUBONG PARK, JEONGHOON LEE\nRESEARCHER: JUBONG PARK, WOOHYUN JIN\n\nSUPPORT TEAM LEAD | KYOUNGJIN LEE\nSUPPORT TEAM | JUBONG PARK, JEONGHOON LEE, WOOHYEON JIN\n\nConnect with SEVENTEEN\n\nOfficial Homepage : http://www.seventeen-17.com\nOfficial YouTube : https://www.youtube.com/pledis17\nOfficial Twitter : https://twitter.com/pledis_17\nOfficial Instagram : http://www.instagram.com/saythename_17\nOfficial Facebook : https://www.facebook.com/seventeennews\nOfficial TikTok : https://www.tiktok.com/@seventeen17_official\nOfficial Weverse : https://www.weverse.io/seventeen\nOfficial Fancafe : http://cafe.daum.net/pledis-17\n\nⓒ PLEDIS Entertainment. All Rights Reserved"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "18990950",
+                "likeCount": "707207",
+                "favoriteCount": "0",
+                "commentCount": "42537"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

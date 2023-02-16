@@ -1,0 +1,808 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "6Thxdp_KOeUek4e0Gk9vhbdl1Rc",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hBD4qcCPRWT5I07LqK9dcoDxY9o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F0B7HDiY-10"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-22T09:00:04Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "IVE 아이브 'After LIKE' MV",
+                "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F0B7HDiY-10/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-22T09:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YX6CAp_5P7-X5n_2g5wTaesaLnU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y8JFxS1HlDo"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-05T09:00:09Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "IVE 아이브 'LOVE DIVE' MV",
+                "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-05T09:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vT9P7ZPFMIuHjlklWEdha21GW8c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "--FmExEAsM8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-01T09:00:03Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "IVE 아이브 'ELEVEN' MV",
+                "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/--FmExEAsM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/--FmExEAsM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/--FmExEAsM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-01T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Mq4R55zX8My1AhnSbRVyvzS23QY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wZh4sZ-QjHc"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-26T12:00:42Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "[뮤뱅 원테이크 4K] 아이브(IVE) 'After LIKE' 4K Bonus Ver. @뮤직뱅크(Music Bank) 220826",
+                "description": "IVE #아이브 #AfterLIKE #원테이크 #원테이크4K More from #KBSKPOP Twitter: https://twitter.com/StudioK_twt Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-26T12:00:42Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "Ea5XqIYumFgEoJOXaSq_cWdgtpU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fdzojloPlFA"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-01T09:00:32Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "[단독샷캠4K] 아이브 'After LIKE' 단독샷 별도녹화│IVE ONE TAKE STAGE @SBS Inkigayo 220828",
+                "description": "[단독샷캠4K] 아이브 'After LIKE' 단독샷 별도녹화│IVE ONE TAKE STAGE @SBS Inkigayo 220828 (Ft. 스탠다드 별도녹화) #인기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fdzojloPlFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fdzojloPlFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fdzojloPlFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-01T09:00:32Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "TYHM5wsjJWLpiGZW2fjYaT3okNQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NrTskRd3NUY"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-06T09:00:12Z",
+                "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+                "title": "아이브 (IVE) _ LOVE DIVE | 러브 다이브 | 1theKILLPO | 원더킬포 | 킬포인트 | 킬링파트 | Performance | 유진 가을 레이 원영 리즈 이서",
+                "description": "아이브 (IVE) _ LOVE DIVE | 러브 다이브 | 1theKILLPO | 원더킬포 | 킬포인트 | 킬링파트 | Performance | 유진 가을 레이 원영 리즈 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NrTskRd3NUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NrTskRd3NUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NrTskRd3NUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK Originals - 원더케이 오리지널",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-06T09:00:12Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "We3Zq6Y2XI7BLN8E5sPq3RaHiGw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "weqhhjkXSWc"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-30T10:48:41Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] IVE - LOVE DIVE+After LIKE | Mnet 221130 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 'God is alIVE' LOVE DIVE+After LIKE by IVE in 2022 MAMA AWARDS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-30T10:48:41Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "rBijQBFcBTbFfjNPEEsXnV9-cAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R7tQCJHIyM8"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-31T12:10:42Z",
+                "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+                "title": "[2022 MBC 가요대제전] 아이브 - 라이언 하트 (IVE - Lion Heart), MBC 221231 방송",
+                "description": "VR스페셜무대는 PICO VIDEO에서 볼 수 있습니다 More clips are available iMBC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R7tQCJHIyM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R7tQCJHIyM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R7tQCJHIyM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCkpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-31T12:10:42Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "oB2oLce_CW0iTJ5yfCsC2v0x-Og",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0vmuBakl0Z0"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T07:45:00Z",
+                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+                "title": "[2022 GMA] IVE (아이브)_Intro + LOVE DIVE + After LIKE",
+                "description": "Play Again, Play GMA Intro + LOVE DIVE + After LIKE by IVE (아이브) in 2022 GMA #GMA #2022GMA #GENIEMUSICAWARDS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0vmuBakl0Z0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GENIE MUSIC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-02T07:45:00Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "ZsJmb_RcUETV0oSccAerf4UvEVY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RJpDWf4DWu8"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-23T11:00:03Z",
+                "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+                "title": "[4K] IVE X LANY - After LIKE | Kollabo Project | 콜라보 프로젝트 | IVE | REI | LIZ | LANY",
+                "description": "[4K] IVE X LANY - After LIKE | Kollabo Project | 콜라보 프로젝트 | IVE | REI | LIZ | LANY ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RJpDWf4DWu8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RJpDWf4DWu8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RJpDWf4DWu8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK Originals - 원더케이 오리지널",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-23T11:00:03Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "nnPa0vXzBspMcrlCIsrfiwCbz4E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dHdABwhhDj8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-17T11:51:56Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "IVE(아이브 アイヴ) - ELEVEN(일레븐) (2021 KBS Song Festival) I KBS WORLD TV 211217",
+                "description": "IVE(아이브 アイヴ) [KBS Song Festival] featuring performances by the hottest K-Pop stars of this year ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dHdABwhhDj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dHdABwhhDj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dHdABwhhDj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-17T11:51:56Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "BX6M7I9JcFnfbsfycDp1u8weB9I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3eDQcIqgLIA"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-25T10:33:26Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[IVE - After LIKE] Comeback Stage | #엠카운트다운 EP.767 | Mnet 220825 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f - KPOP Chart Show M COUNTDOWN | EP.767 - IVE - After LIKE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-25T10:33:26Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "5IC9YElXVk2GC-Z4gxPvPI_aytM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MorC3Q5E69w"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-11T07:21:46Z",
+                "channelId": "UCiwQRG2sCcfjKkgxMEdJGPg",
+                "title": "[전참시] ※최초 공개※ 아이브 (IVE)의 숙소 생활🏚 무대 밖에서는 영락없는 고딩💗ㅣ#아이브 #숙소 MBC220409방송",
+                "description": "[전지적 참견 시점] 토요일 밤 11시 10분 방송! MBC의 따끈따끈한 영상을 내 맘대로 편하게 즐기는 채널   엠뚜루마뚜루 보러 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MorC3Q5E69w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MorC3Q5E69w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MorC3Q5E69w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-11T07:21:46Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "CYG7JhJzHEdeYmTslW-mSt5yzDQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Bo2aD_I7-1U"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-11T14:00:05Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "IVE 아이브 'LOVE DIVE' DANCE PRACTICE",
+                "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bo2aD_I7-1U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "IVE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-11T14:00:05Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "aCSzzxuusBiwc9C51A8CKs4fLno",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W0zrcIa36Vk"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-22T09:30:51Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "IVE(아이브) - LOVE DIVE (Music Bank) | KBS WORLD TV 220422",
+                "description": "Music Bank 2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft 2021 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W0zrcIa36Vk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W0zrcIa36Vk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W0zrcIa36Vk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-22T09:30:51Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "8KKhNNFbZRkuilRfe22IAKKk-gI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eQiILtUEjxc"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-15T09:00:17Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "[단독샷캠4K] 아이브 'LOVE DIVE' 단독샷 별도녹화│IVE ONE TAKE STAGE│@SBS Inkigayo_2022.04.10.",
+                "description": "[단독샷캠4K] 아이브 'LOVE DIVE' 단독샷 별도녹화│IVE ONE TAKE STAGE│@SBS Inkigayo_2022.04.10. (Ft. 스탠다드 별도녹화) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eQiILtUEjxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eQiILtUEjxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eQiILtUEjxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-15T09:00:17Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "DfefmPu5vSnyXiEYxdt2g7BpIhs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XfEZzUtdINI"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-18T15:00:20Z",
+                "channelId": "UCCy_q-N7F2FOIZ6ZggHIAKg",
+                "title": "IVE 'ELEVEN -Japanese ver.-'Music Video",
+                "description": "「ELEVEN - Japanese ver. -」先行配信中 配信リンク：https://IVE.lnk.to/ELEVEN_JP □IVE Japan 1st Single「ELEVEN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sony Music (Japan)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-18T15:00:20Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "UzA5xqHMILRMvak7z_6a6I7mzo0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BOjSR3L_f-w"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-28T11:29:57Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "IVE(아이브) - After LIKE @인기가요 inkigayo 20220828",
+                "description": "IVE - After LIKE #SBSInkigayo_EP1152 아이브 - After LIKE #IVE #AfterLIKE SBS Inkigayo(인기가요) is a Korean music program ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BOjSR3L_f-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BOjSR3L_f-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BOjSR3L_f-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-28T11:29:57Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "pVWsX08k4uN3ge2V6dmyMvz6L8o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dj0g9JX5_aI"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-30T09:06:38Z",
+                "channelId": "UC1SZFtYEUHYR1cfrdTvD1ug",
+                "title": "IVE (아이브) ALL SONGS PLAYLIST 2022 | 아이브 모든 노래 재생 목록",
+                "description": "ive #kpop #kpopplaylist #Iveeleven #koreasong.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dj0g9JX5_aI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dj0g9JX5_aI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dj0g9JX5_aI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MOODZ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-30T09:06:38Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "mCkq70_Vz2-N15X73hOmr1jY42A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9HvOagbT1p4"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-16T14:10:00Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "INTRO + LOVE DIVE + After LIKE - IVE (아이브 アイヴ) [2022 KBS Song Festival] | KBS WORLD TV 221216",
+                "description": "kbssongfestival #KBS가요대축제 #KBS歌謡祭 #LOVEDIVE #AfterLIKE #IVE #아이브 #アイヴ #가을 #Gaeul #ガウル #유진 #Yujin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9HvOagbT1p4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9HvOagbT1p4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9HvOagbT1p4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-16T14:10:00Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "_XxQCBn4Uzu5XO5wdcTJ5XGuEbg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OmX7L_MT1JI"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-10T11:46:01Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "IVE(아이브) - LOVE DIVE @인기가요 inkigayo 20220410",
+                "description": "IVE - LOVE DIVE #SBSInkigayo_EP1132 아이브 - LOVE DIVE #IVE #LOVEDIVE SBS Inkigayo(인기가요) is a Korean music ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OmX7L_MT1JI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OmX7L_MT1JI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OmX7L_MT1JI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-10T11:46:01Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "PBXRezaA1u6yXWzpMNcDlOeS9pM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8AMBslo1zng"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-05T09:00:08Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] IVE(아이브) _ LOVE DIVE",
+                "description": "[MV] IVE(아이브) _ LOVE DIVE K-POP Wonderland, 1theK K-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :) Welcome to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-05T09:00:08Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "QDiyziI_HWrL_FIEfBh0-D1X5Go",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KhWnPda7ecA"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-02T09:40:45Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "After LIKE - IVE  アイヴ [Music Bank] | KBS WORLD TV 220902",
+                "description": "MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行 #Wonyoung #Sunghoon Fri 17:00 | Re-run : Sun 04:30, 12:40 (Seoul, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-02T09:40:45Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "CgSKLW_FQ1gSYQmHssSMGArxayM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J98RARuY_wU"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-29T14:00:08Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "IVE 아이브 'After LIKE' DANCE PRACTICE",
+                "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "IVE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-29T14:00:08Z"
+            }
+        }
+    ]
+}

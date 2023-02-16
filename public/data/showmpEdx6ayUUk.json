@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jC596j3ZbeXJN2j9FabrKHYjFj4",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Hd_HzZtKv8Xc_N8HSwaboXYSodY",
+            "id": "mpEdx6ayUUk",
+            "snippet": {
+                "publishedAt": "2023-02-07T11:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "[HYBE LABELS JAPAN] NEXT BOYS GROUP AUDITION 2023",
+                "description": "HYBE LABELS JAPANの初全国8都道府県巡回オーディション『NEXT BOYS GROUP AUDITION 2023』が開催されます！\n\n📣 NEXT BOYS GROUP AUDITION 2023\n\n✔応募期間\n2023年2月3日(金)～3月5日(日)\n\n✔応募資格\n・日本在住者（国籍不問）\n・2000年～2013年生まれの男性\n・芸能事務所に所属していない方\n\n✔応募部門\nダンス&ボーカルアーティストとしてスキルを発揮できる全ての分野\n\n✔応募方法\nオーディション公式ホームページもしくはLINEから応募\n\nオーディション公式ホームページ\nhttps://hybelabelsjapan-audition.com/\n\n公式LINE\n@hljboysaudition\n\n📍 実施スケジュール\n\n-1次審査 (書類審査)\n\n-2次審査 (個人審査)\n\n🐻北海道会場：3月25日(土)\n\n🐄宮城会場：3月26日(日)\n\n🗼東京会場：3月28日(火)、4月5日(水)\n\n🍤愛知会場：3月30日(木)\n\n🐙大阪会場：4月2日(日)\n\n🦌広島会場：4月1日(土)\n\n🍜福岡会場：4月8日(土)\n\n🌺沖縄会場：4月9日(日)\n\n\n注意事項：\n※会場の選択フォーム、受付時間は1次審査通過者に限り個別にご連絡します\n※対面審査のご参加が難しい場合、オンライン審査も可能です\n※新型コロナウイルス感染拡大の状況によっては、日程が変更になる可能性がございます\n\n\n-3次審査 (個人審査)\n当該者へ個別に内容通知\n\n\n👉公式SNS\n\nHYBE LABELS JAPAN AUDITION公式Twitter： \nhttps://twitter.com/hybe_auditionjp/\n\nHYBE LABELS JAPAN AUDITION公式Instagram：https://instagram.com/hybeauditionjapan_official/\n\n❔Q&A\nよくあるご質問\nhttps://onl.bz/MpmuDbB\n\nオーディションお問い合わせ先\nhybelabelsjapan-audition@hybecorp.com\n※合格可否のお問い合わせはご遠慮ください\n\n#HYBELabelsJapan #NEXTBOYSGROUPAUDITION\n#BOYSGROUP #AUDITION #APPLYNOW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[HYBE LABELS JAPAN] NEXT BOYS GROUP AUDITION 2023",
+                    "description": "HYBE LABELS JAPANの初全国8都道府県巡回オーディション『NEXT BOYS GROUP AUDITION 2023』が開催されます！\n\n📣 NEXT BOYS GROUP AUDITION 2023\n\n✔応募期間\n2023年2月3日(金)～3月5日(日)\n\n✔応募資格\n・日本在住者（国籍不問）\n・2000年～2013年生まれの男性\n・芸能事務所に所属していない方\n\n✔応募部門\nダンス&ボーカルアーティストとしてスキルを発揮できる全ての分野\n\n✔応募方法\nオーディション公式ホームページもしくはLINEから応募\n\nオーディション公式ホームページ\nhttps://hybelabelsjapan-audition.com/\n\n公式LINE\n@hljboysaudition\n\n📍 実施スケジュール\n\n-1次審査 (書類審査)\n\n-2次審査 (個人審査)\n\n🐻北海道会場：3月25日(土)\n\n🐄宮城会場：3月26日(日)\n\n🗼東京会場：3月28日(火)、4月5日(水)\n\n🍤愛知会場：3月30日(木)\n\n🐙大阪会場：4月2日(日)\n\n🦌広島会場：4月1日(土)\n\n🍜福岡会場：4月8日(土)\n\n🌺沖縄会場：4月9日(日)\n\n\n注意事項：\n※会場の選択フォーム、受付時間は1次審査通過者に限り個別にご連絡します\n※対面審査のご参加が難しい場合、オンライン審査も可能です\n※新型コロナウイルス感染拡大の状況によっては、日程が変更になる可能性がございます\n\n\n-3次審査 (個人審査)\n当該者へ個別に内容通知\n\n\n👉公式SNS\n\nHYBE LABELS JAPAN AUDITION公式Twitter： \nhttps://twitter.com/hybe_auditionjp/\n\nHYBE LABELS JAPAN AUDITION公式Instagram：https://instagram.com/hybeauditionjapan_official/\n\n❔Q&A\nよくあるご質問\nhttps://onl.bz/MpmuDbB\n\nオーディションお問い合わせ先\nhybelabelsjapan-audition@hybecorp.com\n※合格可否のお問い合わせはご遠慮ください\n\n#HYBELabelsJapan #NEXTBOYSGROUPAUDITION\n#BOYSGROUP #AUDITION #APPLYNOW"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT1M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "173084",
+                "likeCount": "18594",
+                "favoriteCount": "0",
+                "commentCount": "1095"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

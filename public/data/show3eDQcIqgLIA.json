@@ -1,0 +1,90 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4Bur3nMtodlVYNhFJjPj06qGkjA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "_C7P3bom0Y1zIeL2LoO_Q11aQBM",
+            "id": "3eDQcIqgLIA",
+            "snippet": {
+                "publishedAt": "2022-08-25T10:33:26Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[IVE - After LIKE] Comeback Stage | #엠카운트다운 EP.767 | Mnet 220825 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n- KPOP Chart Show M COUNTDOWN | EP.767\n- IVE - After LIKE\n\n▶Watch more video clips:\nhttps://bit.ly/2022MCOUNTDOWN\n\n[Kor Ver.]\n'최초 공개' 컬러풀 매력 'IVE'의 'After LIKE' 무대\n----------------------------------------------------------------------------\nM COUNTDOWN is the World No.1 KPOP Chart Show, which is broadcast in 14 countries.\nLive broadcast every Thursday at 6 p.m. KST.\n(매주 목요일 저녁 6시 엠넷 생방송)\n \n▶Subscribe Now! - Mnet K-POP: \nhttp://bit.ly/Subscribe-Mnet-KPOP\n\nFacebook: http://www.facebook.com/mcountdown\nTwitter: https://twitter.com/MnetMCOUNTDOWN\n________________________________________________\n\nMnet(Music Network) is an official KPOP music television in South Korea owned by CJ Group.\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n\n#티빙에서스트리밍",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3eDQcIqgLIA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "tags": [
+                    "After LIKE",
+                    "IVE",
+                    "KPOP",
+                    "MCD",
+                    "MCOUNTDOWN",
+                    "Mnet",
+                    "아이브",
+                    "애프터라이크",
+                    "엠넷",
+                    "엠카",
+                    "엠카운트다운",
+                    "케이팝",
+                    "티빙에서스트리밍"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[IVE - After LIKE] Comeback Stage | #엠카운트다운 EP.767 | Mnet 220825 방송",
+                    "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n- KPOP Chart Show M COUNTDOWN | EP.767\n- IVE - After LIKE\n\n▶Watch more video clips:\nhttps://bit.ly/2022MCOUNTDOWN\n\n[Kor Ver.]\n'최초 공개' 컬러풀 매력 'IVE'의 'After LIKE' 무대\n----------------------------------------------------------------------------\nM COUNTDOWN is the World No.1 KPOP Chart Show, which is broadcast in 14 countries.\nLive broadcast every Thursday at 6 p.m. KST.\n(매주 목요일 저녁 6시 엠넷 생방송)\n \n▶Subscribe Now! - Mnet K-POP: \nhttp://bit.ly/Subscribe-Mnet-KPOP\n\nFacebook: http://www.facebook.com/mcountdown\nTwitter: https://twitter.com/MnetMCOUNTDOWN\n________________________________________________\n\nMnet(Music Network) is an official KPOP music television in South Korea owned by CJ Group.\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n\n#티빙에서스트리밍"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT4M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": ["PH", "TW"]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3939420",
+                "likeCount": "148502",
+                "favoriteCount": "0",
+                "commentCount": "3019"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

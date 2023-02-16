@@ -1,0 +1,73 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "H5AuigHq7TEaSmSvaLd1NSC7mKY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "1Nf6S4OHJlhhi1hPTv_VLv3gS28",
+            "id": "SfcIOca6tFY",
+            "snippet": {
+                "publishedAt": "2023-02-10T18:40:44Z",
+                "channelId": "UCe-hlnP0Zho7FRWxcj9ZvLg",
+                "title": "Is HYBE Monopolizing Kpop?",
+                "description": "*I do not own any of the stage mix footage shown in the video, please support the official release!*\n\nNOTE: This is a video covering  the recent release of HYBE purchasing shares/stock in SM in order to block Kakao's recent involvement. Why this is a bad or a good thing and what it really means.\n\nSources: https://www.bloomberg.com/news/articles/2023-02-09/bts-agency-hybe-to-buy-sm-stake-joins-race-for-k-pop-pioneer\n\nhttps://www.reuters.com/markets/deals/skoreas-kakao-corp-buy-905-stake-sm-entertainment-touts-k-pop-projects-2023-02-07/\n\nPrevious Video: https://www.youtube.com/watch?v=Zv7_YErnEZY&t=572s\n\n\n#kpop #hybe #smentertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Taejiu",
+                "tags": [
+                    "kpop", "sm", "hybe", "hybe buying sm"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Is HYBE Monopolizing Kpop?",
+                    "description": "*I do not own any of the stage mix footage shown in the video, please support the official release!*\n\nNOTE: This is a video covering  the recent release of HYBE purchasing shares/stock in SM in order to block Kakao's recent involvement. Why this is a bad or a good thing and what it really means.\n\nSources: https://www.bloomberg.com/news/articles/2023-02-09/bts-agency-hybe-to-buy-sm-stake-joins-race-for-k-pop-pioneer\n\nhttps://www.reuters.com/markets/deals/skoreas-kakao-corp-buy-905-stake-sm-entertainment-touts-k-pop-projects-2023-02-07/\n\nPrevious Video: https://www.youtube.com/watch?v=Zv7_YErnEZY&t=572s\n\n\n#kpop #hybe #smentertainment"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT6M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "10526",
+                "likeCount": "555",
+                "favoriteCount": "0",
+                "commentCount": "135"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

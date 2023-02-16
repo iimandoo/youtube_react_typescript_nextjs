@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mwEmEBhWqQTVqNlkLTXag0tgySQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "C18hlVxtkANUlbxnsUULTyC0fIY",
+            "id": "GZjt_sA2eso",
+            "snippet": {
+                "publishedAt": "2016-05-15T13:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) 'Save ME' Official MV",
+                "description": "BTS (방탄소년단) 'Save ME' Official MV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "빅히트",
+                    "방탄",
+                    "BTS",
+                    "BANGTAN",
+                    "방탄소년단",
+                    "세이브미",
+                    "SAVEME"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'Save ME' Official MV",
+                    "description": "BTS (방탄소년단) 'Save ME' Official MV"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

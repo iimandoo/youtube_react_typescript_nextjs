@@ -1,0 +1,87 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "i6QMHKYq3dcB5KzlTR-B6HgnNJI",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CCyoD9TR_kbhTIF4jp1cuI__ePM",
+            "id": "weqhhjkXSWc",
+            "snippet": {
+                "publishedAt": "2022-11-30T10:48:41Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[2022 MAMA] IVE - LOVE DIVE+After LIKE | Mnet 221130 방송",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n'God is alIVE'\nLOVE DIVE+After LIKE by IVE in 2022 MAMA AWARDS\n \nWorld’s No.1 K-POP Awards\n2022 MAMA AWARDS\n#2022MAMA #MAMAAWARDS #2022MAMAAWARDS\n\n#티빙에서스트리밍",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/weqhhjkXSWc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "tags": [
+                    "2022 MAMA",
+                    "2022 MAMA AWARDS",
+                    "2022 마마",
+                    "2022 마마 어워즈",
+                    "AfterLIKE",
+                    "IVE",
+                    "LOVEDIVE",
+                    "MAMA AWARDS",
+                    "Mnet",
+                    "마마 어워즈",
+                    "아이브",
+                    "엠넷",
+                    "티빙에서스트리밍"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[2022 MAMA] IVE - LOVE DIVE+After LIKE | Mnet 221130 방송",
+                    "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n'God is alIVE'\nLOVE DIVE+After LIKE by IVE in 2022 MAMA AWARDS\n \nWorld’s No.1 K-POP Awards\n2022 MAMA AWARDS\n#2022MAMA #MAMAAWARDS #2022MAMAAWARDS\n\n#티빙에서스트리밍"
+                },
+                "defaultAudioLanguage": "en-US"
+            },
+            "contentDetails": {
+                "duration": "PT4M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4861002",
+                "likeCount": "128948",
+                "favoriteCount": "0",
+                "commentCount": "3318"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

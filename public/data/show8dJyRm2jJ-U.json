@@ -1,0 +1,92 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "DOXv2ohNfxlnyKLNpUZ4aaAmqd8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "XCJDzipkd5DIAcm1fUnZYWqnn-8",
+            "id": "8dJyRm2jJ-U",
+            "snippet": {
+                "publishedAt": "2022-04-29T09:00:10Z",
+                "channelId": "UCrDkAvwZum-UTjHmzDI2iIw",
+                "title": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV",
+                "description": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV \n\nMV Executive Producer: P NATION \nMV Director: 최용석 @LUMPENS\nComposed by: SUGA, PSY, EL CAPITXN\nLyrics by: PSY, SUGA\nArranged by: SUGA, EL CAPITXN\nMixed by Tony Maserati\nMastered by Chris Gehringer @Sterling Sound\n\n* ‘That That (prod. & feat. SUGA of BTS)’ is now available on all streaming platforms including Apple Music & Spotify. \n\n🎧 Spotify : https://spoti.fi/3rYpVfa\n🎧 iTunes & Apple Music : https://apple.co/3ON0tTZ\n🎧 YouTube Music : https://bit.ly/3MEM3TT\n🎧 Melon : https://bit.ly/37NHXdw\n🎧 Genie : https://bit.ly/39jbDzj\n🎧 FLO : https://bit.ly/3vr9UAH\n🎧 Bugs : https://bit.ly/3MysBYM\n🎧 VIBE : https://bit.ly/3KswDk0\n\nPSY \n정규9집 [싸다9]\nFull-Length Album [PSY 9th]\n\nTrack List:\n#2. That That (prod.&ft. SUGA of BTS) *Title Track\n\n#PSY #SUGA #ThatThat #MV #싸이 #슈가 #BTS #정규9집 #싸다9 #PSY9th #PNATION #피네이션\n\nCopyrights 2022 ⓒ P NATION All Rights Reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8dJyRm2jJ-U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "officialpsy",
+                "tags": [
+                    "PSY",
+                    "싸이",
+                    "psy",
+                    "Psy",
+                    "박재상",
+                    "Comeback",
+                    "coming back",
+                    "9th",
+                    "PSY 9th",
+                    "Psy 9th",
+                    "P NATION",
+                    "p nation",
+                    "피네이션",
+                    "정규9집",
+                    "컴백",
+                    "싸다9",
+                    "싸다구",
+                    "PSY9th",
+                    "구집",
+                    "9wlq",
+                    "9집",
+                    "콘서트",
+                    "싸이 콘서트",
+                    "싸이콘서트",
+                    "That That",
+                    "that that",
+                    "that",
+                    "SUGA",
+                    "BTS",
+                    "produced",
+                    "featuring",
+                    "MV",
+                    "music video",
+                    "Music Video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV",
+                    "description": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV \n\nMV Executive Producer: P NATION \nMV Director: 최용석 @LUMPENS\nComposed by: SUGA, PSY, EL CAPITXN\nLyrics by: PSY, SUGA\nArranged by: SUGA, EL CAPITXN\nMixed by Tony Maserati\nMastered by Chris Gehringer @Sterling Sound\n\n* ‘That That (prod. & feat. SUGA of BTS)’ is now available on all streaming platforms including Apple Music & Spotify. \n\n🎧 Spotify : https://spoti.fi/3rYpVfa\n🎧 iTunes & Apple Music : https://apple.co/3ON0tTZ\n🎧 YouTube Music : https://bit.ly/3MEM3TT\n🎧 Melon : https://bit.ly/37NHXdw\n🎧 Genie : https://bit.ly/39jbDzj\n🎧 FLO : https://bit.ly/3vr9UAH\n🎧 Bugs : https://bit.ly/3MysBYM\n🎧 VIBE : https://bit.ly/3KswDk0\n\nPSY \n정규9집 [싸다9]\nFull-Length Album [PSY 9th]\n\nTrack List:\n#2. That That (prod.&ft. SUGA of BTS) *Title Track\n\n#PSY #SUGA #ThatThat #MV #싸이 #슈가 #BTS #정규9집 #싸다9 #PSY9th #PNATION #피네이션\n\nCopyrights 2022 ⓒ P NATION All Rights Reserved"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

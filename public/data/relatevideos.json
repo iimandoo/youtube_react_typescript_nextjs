@@ -1,0 +1,412 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "lzoJhkq4BTuC__hCGb8pLl2D60U",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G5F82vihgSVidiVb8OR2uD4jsZs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mBXBOLG06Wc"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-06T08:58:10Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "부석순 (SEVENTEEN) '파이팅 해야지 (Feat. 이영지)' Official MV",
+                "description": "부석순 (SEVENTEEN) '파이팅 해야지 (Feat. 이영지)' Official MV #부석순 #BSS #SECONDWIND #파이팅해야지 #BSS_Fighting ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mBXBOLG06Wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-06T08:58:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7nv0KZgFwfhqwyFQXq7zBStI6Jc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P9tKTxbgdkk"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-27T04:58:09Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV",
+                "description": "TXT (투모로우바이투게더) 'Sugar Rush Ride' Official MV Credits: Directed by STUDIO SACCHARIN [SACCAHRIN] Director ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P9tKTxbgdkk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-27T04:58:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C_h8iQTXrIk1D_0l-hphx_XSU38",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SfcIOca6tFY"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-10T18:40:44Z",
+                "channelId": "UCe-hlnP0Zho7FRWxcj9ZvLg",
+                "title": "Is HYBE Monopolizing Kpop?",
+                "description": "I do not own any of the stage mix footage shown in the video, please support the official release!* NOTE: This is a video covering ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SfcIOca6tFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taejiu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-10T18:40:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V4zRrUJ9XWP6sBCa67JM3rJF7nk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "11cta61wi0g"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-18T09:00:01Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+                "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1) Producer: MIN HEE JIN Music Video Director: Dongle Shin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-18T09:00:01Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "58wcdPbzasijqvCO08_jA5ZyjPw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U7_TK7nlsyk"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-10T00:59:07Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "2022 HYBE BRIEFING WITH THE COMMUNITY",
+                "description": "'2022 공동체와 함께하는 하이브 회사 설명회' 함께 성장하고 진화하며, 경계 없는 확장을 모색해 온 사람들의 이야기를 통해 하이브의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U7_TK7nlsyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U7_TK7nlsyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U7_TK7nlsyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-10T00:59:07Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "CvDQNvcfLZr7UjtAO_3A7rHPgYk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RbbYMk4QF70"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-10T04:43:16Z",
+                "channelId": "UCzznO4xSV8BKnUBPyswtCUw",
+                "title": "HYBE becomes top shareholder of SM Entertainment",
+                "description": "하이브, 이수만 손잡고 SM 인수 K팝 공룡 기획사 탄생 Korean entertainment giant HYBE is on course to become an even greater ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RbbYMk4QF70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RbbYMk4QF70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RbbYMk4QF70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arirang News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-10T04:43:16Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "_nj0MS25XkrTLmdAPixyoKdhu4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tvj6wY1ifyk"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-10T11:34:32Z",
+                "channelId": "UCu976UrWTIh3-3c8WImzVFA",
+                "title": "하이브와 손잡은 이수만, 하이브 vs 카카오, SM 쟁탈전(ENG)",
+                "description": "English CC available! 이수만 전 SM 총괄 프로듀서가 하이브에 도움을 요청했습니다. 하이브는 SM을 인수하기 위해 움직였는데요.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tvj6wY1ifyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Doyouram - Everyday K-Culture",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-10T11:34:32Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "sd_v4fD49cJiYyq2cUzZ5U2Nha8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zbuAIAoBbO0"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-19T02:00:16Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "HYBE: NEW BRAND PRESENTATION",
+                "description": "빅히트의 새로운 기업 브랜딩과 지향점, 신사옥에 대해 이야기합니다. Here is our story about Big Hit's new corporate branding, our ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-19T02:00:16Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "WIha3x4oJsSWzjIV5jIkc-mWsS4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_ZAgIHmHLdc"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T09:00:00Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) 'OMG' Official MV",
+                "description": "NewJeans (뉴진스) 'OMG' Official MV Producer: MIN HEE JIN Music Video Director: Wooseok Shin (DOLPHINERS FILM) c 2023 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-02T09:00:00Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "7rONGKfl4MMUzvrrqwF7xnLafiQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PL9rLGO6bao"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-04T09:27:11Z",
+                "channelId": "UCUejcRNrbZfsKg_fCxEsQ9w",
+                "title": "Hybe artists supporting Newjeans",
+                "description": "I am a #1 Hybe artists Stan   . . . insta : catnipzofficial - - - #newjeans #minji #hanni #haerin #danielle #hyein #newjeansminji ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PL9rLGO6bao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PL9rLGO6bao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PL9rLGO6bao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jeanzies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-04T09:27:11Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "8ZqPToP9vpncr8EaKky-G7jWZMc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NKWy5L_AVUc"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-19T08:27:36Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "HYBE ARTIST COMPILATION [2022 KBS Song Festival] I KBS WORLD TV 221216",
+                "description": "kbssongfestival #KBS가요대축제 #KBS歌謡祭 #Attention #Hypeboy #NewJeans #뉴진스 #ニュージーンズ #Minji #민지 #Hanni ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NKWy5L_AVUc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NKWy5L_AVUc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NKWy5L_AVUc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-19T08:27:36Z"
+            }
+        }, {
+            "kind": "youtube#searchResult",
+            "etag": "1gWV7iV-R-TsiruzAtzTgD6HbIY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mpEdx6ayUUk"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-07T11:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "[HYBE LABELS JAPAN] NEXT BOYS GROUP AUDITION 2023",
+                "description": "HYBE LABELS JAPANの初全国8都道府県巡回オーディション『NEXT BOYS GROUP AUDITION 2023』が開催されます！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpEdx6ayUUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-07T11:00:02Z"
+            }
+        }
+    ]
+}

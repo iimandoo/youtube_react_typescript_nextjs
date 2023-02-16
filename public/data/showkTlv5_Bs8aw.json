@@ -1,0 +1,66 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UkkKB9ssRKg0_29QUC2yZP8H4zk",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "UqF_1O8PQ4we-nm870easqJPUm4",
+            "id": "kTlv5_Bs8aw",
+            "snippet": {
+                "publishedAt": "2017-11-24T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV",
+                "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV\n\n\nCredits:\n\n\n\nMusic Video by GDW, Directed by Woogie Kim\n\nProducer: Cathy Kim\nProduction Supervisor: Andy Iere Kim\n\n1st AD: Hyesu Han\nDirecting Team Supervisor: Doori Kwak\n\nDirector of Photography: Hyunwoo Nam\nGaffer: Hyunsuk Song\n\nArt Director: Sangseon Kim\nVFX Director: Donghoo Yoh\n\n\n\nBigHit Entertainment. All rights reserved. \nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea.\n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "BIGHIT",
+                    "빅히트",
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "방탄",
+                    "MIC Drop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV",
+                    "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV\n\n\nCredits:\n\n\n\nMusic Video by GDW, Directed by Woogie Kim\n\nProducer: Cathy Kim\nProduction Supervisor: Andy Iere Kim\n\n1st AD: Hyesu Han\nDirecting Team Supervisor: Doori Kwak\n\nDirector of Photography: Hyunwoo Nam\nGaffer: Hyunsuk Song\n\nArt Director: Sangseon Kim\nVFX Director: Donghoo Yoh\n\n\n\nBigHit Entertainment. All rights reserved. \nUnauthorized reproduction is a violation of applicable laws. \nManufactured by BigHit Entertainment, Seoul, Korea.\n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

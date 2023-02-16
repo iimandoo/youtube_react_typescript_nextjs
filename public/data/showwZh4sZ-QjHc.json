@@ -1,0 +1,125 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "6QQ4MXYDKN7QxjHOCPlLOMbCmVY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "t75A7BYKydgI-epjYx8xQeaqtyc",
+            "id": "wZh4sZ-QjHc",
+            "snippet": {
+                "publishedAt": "2022-08-26T12:00:42Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "[뮤뱅 원테이크 4K] 아이브(IVE) 'After LIKE' 4K Bonus Ver. @뮤직뱅크(Music Bank) 220826",
+                "description": "#IVE #아이브 #AfterLIKE #원테이크 #원테이크4K\n\nMore from #KBSKPOP\n\nTwitter: https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wZh4sZ-QjHc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "tags": [
+                    "KBS",
+                    "KPOP",
+                    "뮤직",
+                    "KBSKPOP",
+                    "K-POP",
+                    "케이팝",
+                    "kpop",
+                    "KBSKpop",
+                    "음악",
+                    "kbs kpop",
+                    "뮤뱅",
+                    "뮤직뱅크",
+                    "아이브",
+                    "ive",
+                    "스타쉽",
+                    "가을",
+                    "유진",
+                    "레이",
+                    "원영",
+                    "리즈",
+                    "이서",
+                    "GAEUL",
+                    "ガウル",
+                    "YUJIN",
+                    "ユジン",
+                    "REI",
+                    "レイ",
+                    "WONYOUNG",
+                    "ウォニョン",
+                    "LIZ",
+                    "リズ",
+                    "LEESEO",
+                    "イソ",
+                    "LOVE DIVE",
+                    "러브다이브",
+                    "아이브 뮤뱅",
+                    "뮤직뱅크 아이브",
+                    "ive musicbank",
+                    "ive eleven",
+                    "musicbank ive",
+                    "ive After LIKE",
+                    "After LIKE 아이브",
+                    "아이브 에프터라이크",
+                    "뮤뱅 아이브",
+                    "일레븐",
+                    "After LIKE ive",
+                    "musicbank After LIKE",
+                    "After LIKE",
+                    "musicbank afterlike",
+                    "원테이크",
+                    "뮤뱅 원테이크",
+                    "짐벌캠"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[뮤뱅 원테이크 4K] 아이브(IVE) 'After LIKE' 4K Bonus Ver. @뮤직뱅크(Music Bank) 220826",
+                    "description": "#IVE #아이브 #AfterLIKE #원테이크 #원테이크4K\n\nMore from #KBSKPOP\n\nTwitter: https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official/"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "14878300",
+                "likeCount": "111726",
+                "favoriteCount": "0",
+                "commentCount": "5382"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

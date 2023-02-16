@@ -1,0 +1,80 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "4PCiuM_yLIsgmmky1FJCD8thu2M",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "CY438dPkWTvmnZfPNuY8YHjpjmk",
+            "id": "zbuAIAoBbO0",
+            "snippet": {
+                "publishedAt": "2021-03-19T02:00:16Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "HYBE: NEW BRAND PRESENTATION",
+                "description": "빅히트의 새로운 기업 브랜딩과 지향점, 신사옥에 대해 이야기합니다.\nHere is our story about Big Hit's new corporate branding, our goals and our new office space.\n\n\nhttp://hybe.co\nhttp://hybe.systems\n\n0:00 Introduction\n6:03 New Corporate Brand Name\n7:29 Organization\n18:32 Mission & Vision\n21:49 New Brand Identity\n24:53 New Office Space\n36:33 Closing \n\n\nCredits:\n\n[“HYBE: NEW BRAND PRESENTATION” Planning & Supervision]\n\nChief Creative Director: Heejin Min\nCreative Director: Yemin Kim \nAssistant Director: Donghoon Shin \nPlanning: Nayeon Kim, Han-gyeol Kim\n\n*PRODUCTION\n- Designfever\n\nDesign: Yi Ju Hwan, Park Ji Yeon, Jung Song Hee, Chung Hyun Ju\nMotion: Moon Ji Woong, Ryu Keun Ju, Choi Ah Yeong, Kim Young Ran, Kim Da Hui\nPlanning: Bae Euri, Rhee Jee Hee\n\n- Kenosis\n3D: James KyungSoo Kim, Joongmin Park, MyeongHwan Cho, Kim Sang Hee\n\n——\n\n[HYBE BRAND IDENTITY DESIGN]\n\n- HYBE\nChief Creative Director: Heejin Min \nProject Director: Yemin Kim\nDesign: Yemin Kim, Han-gyeol Kim\n\n- CRAFIK\nCreative Director : Jaehee Joh\nProject Director : Seungwon Yoo\nBX Designer : Boram An, Jinsol Shin, Hongeun Yoon, Jagyoun Koo\n\n——\n\n[HYBE Architects]\n\nFHHH friends + studio COM \nSejoong Kim, Joowon Han, Hanjin Yoon, Seungjae Han, Yangkyu Han           \n\nTeam: Yunju Choi, Eunjee Choe, Yoomi Shin, Jaenam Lim, Hyunseok Hong, Youngho Cho, Hyesang Park\n\n*Spatial Experience Design\nHanjin Yoon (FHHH), Joowon Han (COM), Sejoong Kim (COM), Heejin Min (HYBE), Donghoon Shin (HYBE)\n\n#HYBE #BIGHIT",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zbuAIAoBbO0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "BIGHIT",
+                    "빅히트",
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "방탄"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "HYBE: NEW BRAND PRESENTATION",
+                    "description": "빅히트의 새로운 기업 브랜딩과 지향점, 신사옥에 대해 이야기합니다.\nHere is our story about Big Hit's new corporate branding, our goals and our new office space.\n\n\nhttp://hybe.co\nhttp://hybe.systems\n\n0:00 Introduction\n6:03 New Corporate Brand Name\n7:29 Organization\n18:32 Mission & Vision\n21:49 New Brand Identity\n24:53 New Office Space\n36:33 Closing \n\n\nCredits:\n\n[“HYBE: NEW BRAND PRESENTATION” Planning & Supervision]\n\nChief Creative Director: Heejin Min\nCreative Director: Yemin Kim \nAssistant Director: Donghoon Shin \nPlanning: Nayeon Kim, Han-gyeol Kim\n\n*PRODUCTION\n- Designfever\n\nDesign: Yi Ju Hwan, Park Ji Yeon, Jung Song Hee, Chung Hyun Ju\nMotion: Moon Ji Woong, Ryu Keun Ju, Choi Ah Yeong, Kim Young Ran, Kim Da Hui\nPlanning: Bae Euri, Rhee Jee Hee\n\n- Kenosis\n3D: James KyungSoo Kim, Joongmin Park, MyeongHwan Cho, Kim Sang Hee\n\n——\n\n[HYBE BRAND IDENTITY DESIGN]\n\n- HYBE\nChief Creative Director: Heejin Min \nProject Director: Yemin Kim\nDesign: Yemin Kim, Han-gyeol Kim\n\n- CRAFIK\nCreative Director : Jaehee Joh\nProject Director : Seungwon Yoo\nBX Designer : Boram An, Jinsol Shin, Hongeun Yoon, Jagyoun Koo\n\n——\n\n[HYBE Architects]\n\nFHHH friends + studio COM \nSejoong Kim, Joowon Han, Hanjin Yoon, Seungjae Han, Yangkyu Han           \n\nTeam: Yunju Choi, Eunjee Choe, Yoomi Shin, Jaenam Lim, Hyunseok Hong, Youngho Cho, Hyesang Park\n\n*Spatial Experience Design\nHanjin Yoon (FHHH), Joowon Han (COM), Sejoong Kim (COM), Heejin Min (HYBE), Donghoon Shin (HYBE)\n\n#HYBE #BIGHIT"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT38M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "4194354",
+                "likeCount": "590172",
+                "favoriteCount": "0",
+                "commentCount": "33402"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

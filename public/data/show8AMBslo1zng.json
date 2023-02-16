@@ -1,0 +1,92 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lKmhAvfASbvZaiXOqpa9qX6XYJc",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "DCmOg_hCrQZBUUkghe4J2LRqK2E",
+            "id": "8AMBslo1zng",
+            "snippet": {
+                "publishedAt": "2022-04-05T09:00:08Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] IVE(아이브) _ LOVE DIVE",
+                "description": "[MV] IVE(아이브) _ LOVE DIVE\n\n\n\nK-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :)\nWelcome to the official YouTube channel of K-POP Wonderland, 1theK\n\n\"\"1theK Originals\"\" Subscribe 👉 https://www.youtube.com/1theKOriginals\n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n#NEWRELEASE#MV#1theK#원더케이\n\n▶1theK YT : https://www.youtube.com/1theK\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc\n▶1theK TikTok : https://vt.tiktok.com/2mSMBS\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8AMBslo1zng/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "tags": [
+                    "K-POP",
+                    "Kpop",
+                    "1theK",
+                    "원더케이",
+                    "Original",
+                    "1theK Original",
+                    "TOP100",
+                    "idol",
+                    "아이돌",
+                    "라이브",
+                    "LIVE",
+                    "멜론",
+                    "원더케이 오리지널",
+                    "음악",
+                    "IVE",
+                    "아이브",
+                    "LOVE DIVE",
+                    "러브다이브"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "[MV] IVE(아이브) _ LOVE DIVE",
+                    "description": "[MV] IVE(아이브) _ LOVE DIVE\n\n\n\nK-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움을 1theK(원더케이)에서 만나보세요! :)\nWelcome to the official YouTube channel of K-POP Wonderland, 1theK\n\n\"\"1theK Originals\"\" Subscribe 👉 https://www.youtube.com/1theKOriginals\n\n[Notice] 1theK YouTube is also an official channel for the MV, and music shows will count the views from this channel too.\n[공지] 1theK YouTube는 MV를 유통하는 공식 채널로, 1theK에 업로드된 MV 조회수 또한 음악방송 순위에 반영됩니다.\n\n#NEWRELEASE#MV#1theK#원더케이\n\n▶1theK YT : https://www.youtube.com/1theK\n▶1theK FB  : http://www.facebook.com/1theK\n▶1theK TW : https://twitter.com/1theK\n▶1theK Kakao : https://goo.gl/otRpZc\n▶1theK TikTok : https://vt.tiktok.com/2mSMBS\""
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "3708440",
+                "likeCount": "68307",
+                "favoriteCount": "0",
+                "commentCount": "2191"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,1245 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "MDYq7aP6OhvwrvQP2GaLFg8HJCc",
+    "pageInfo": {
+        "totalResults": 28,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "Q_E21Gbfa_6jShjpImr7aLaHb9g",
+            "id": "UCrDkAvwZum-UTjHmzDI2iIw",
+            "snippet": {
+                "title": "officialpsy",
+                "description": "PSY Official YouTube Channel",
+                "customUrl": "@officialpsy",
+                "publishedAt": "2010-10-04T02:50:53Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/VXVR9IKCRGRAtjdXcul8EcB2MoT1ZC7d8YMlkzVfB8Iuulf3WK5HA_h6BihPBe-OnpS4Fufrag=s88-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/VXVR9IKCRGRAtjdXcul8EcB2MoT1ZC7d8YMlkzVfB8Iuulf3WK5HA_h6BihPBe-OnpS4Fufrag=s240-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/VXVR9IKCRGRAtjdXcul8EcB2MoT1ZC7d8YMlkzVfB8Iuulf3WK5HA_h6BihPBe-OnpS4Fufrag=s800-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "officialpsy",
+                    "description": "PSY Official YouTube Channel"
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUrDkAvwZum-UTjHmzDI2iIw"
+                }
+            },
+            "statistics": {
+                "viewCount": "10351440070",
+                "subscriberCount": "17900000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "123"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "iUDQg-aIZjGBIetoO00B121OVCs",
+            "id": "UCYDmx2Sfpnaxg488yBpZIGg",
+            "snippet": {
+                "title": "starshipTV",
+                "description": "Welcome to  StarshipTV! \nSTARSHIP Entertainment  Official  YouTube Channel\n\n\nKPOP MUSIC",
+                "customUrl": "@starship_official",
+                "publishedAt": "2010-03-14T11:10:25Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVwDpcQyTack1z4D-7BuN0J4ll85CEHWdu-z3SgNQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVwDpcQyTack1z4D-7BuN0J4ll85CEHWdu-z3SgNQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVwDpcQyTack1z4D-7BuN0J4ll85CEHWdu-z3SgNQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "starshipTV",
+                    "description": "Welcome to  StarshipTV! \nSTARSHIP Entertainment  Official  YouTube Channel\n\n\nKPOP MUSIC"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUYDmx2Sfpnaxg488yBpZIGg"
+                }
+            },
+            "statistics": {
+                "viewCount": "3753118059",
+                "subscriberCount": "5720000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2110"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "RMXPDqJkiC11vjI-7AB0gNarP5Q",
+            "id": "UCeLPm9yH_a_QH8n6445G-Ow",
+            "snippet": {
+                "title": "KBS Kpop",
+                "description": "[KBS 한국방송] 음악 전문 채널, KBS Kpop 입니다.\n[KBS Korean Broadcasting System] Official Music Channel, KBS kpop.\n\n\n[Business Contact] : officialstudiokk@gmail.com \n",
+                "customUrl": "@kbskpop",
+                "publishedAt": "2011-12-28T02:47:08Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/6xOBiHC0rSAa74kQ8MLBDW_sYN0KRCebJGlGODREsjypB9zOEx63TXR1oSslLLe9ptDIAcjV6Q=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/6xOBiHC0rSAa74kQ8MLBDW_sYN0KRCebJGlGODREsjypB9zOEx63TXR1oSslLLe9ptDIAcjV6Q=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/6xOBiHC0rSAa74kQ8MLBDW_sYN0KRCebJGlGODREsjypB9zOEx63TXR1oSslLLe9ptDIAcjV6Q=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "KBS Kpop",
+                    "description": "[KBS 한국방송] 음악 전문 채널, KBS Kpop 입니다.\n[KBS Korean Broadcasting System] Official Music Channel, KBS kpop.\n\n\n[Business Contact] : officialstudiokk@gmail.com \n"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUeLPm9yH_a_QH8n6445G-Ow"
+                }
+            },
+            "statistics": {
+                "viewCount": "6603884474",
+                "subscriberCount": "7520000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "36910"
+            }
+        },
+        {
+            "kind": "youtube#channel",
+            "etag": "FM4pCeCrLeKz2dkGlNTjHtRpmwI",
+            "id": "UC3IZKseVpdzPSBaWxBxundA",
+            "snippet": {
+                "title": "HYBE LABELS",
+                "description": "Welcome to the official YouTube channel of HYBE, the content hub for BIGHIT MUSIC, BELIFT LAB, SOURCE MUSIC, PLEDIS Entertainment, KOZ ENTERTAINMENT, ADOR and more.",
+                "customUrl": "@hybelabels",
+                "publishedAt": "2008-06-04T08:23:22Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUgLlzgCbGoqQMICDMxcJFLIdi0DyysvGunHcdAXw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUgLlzgCbGoqQMICDMxcJFLIdi0DyysvGunHcdAXw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUgLlzgCbGoqQMICDMxcJFLIdi0DyysvGunHcdAXw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "HYBE LABELS",
+                    "description": "Welcome to the official YouTube channel of HYBE, the content hub for BIGHIT MUSIC, BELIFT LAB, SOURCE MUSIC, PLEDIS Entertainment, KOZ ENTERTAINMENT, ADOR and more."
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UU3IZKseVpdzPSBaWxBxundA"
+                }
+            },
+            "statistics": {
+                "viewCount": "26382891256",
+                "subscriberCount": "69200000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1099"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "1u_4BALsah9VRympKXIPwEu_4rI",
+            "id": "UCg8ZzloDPTrOiGztK0C9txQ",
+            "snippet": {
+                "title": "THEBLACKLABEL",
+                "description": "THEBLACKLABEL Official Youtube",
+                "customUrl": "@theblacklabel",
+                "publishedAt": "2017-11-21T08:28:04Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/aTcQbjLBXeliRJqVGGQNLmzcLug2FxQN0hvHL9n_1Ux-xmU42N4-UySBXbR3-8LcPncEPQ5rl8s=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/aTcQbjLBXeliRJqVGGQNLmzcLug2FxQN0hvHL9n_1Ux-xmU42N4-UySBXbR3-8LcPncEPQ5rl8s=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/aTcQbjLBXeliRJqVGGQNLmzcLug2FxQN0hvHL9n_1Ux-xmU42N4-UySBXbR3-8LcPncEPQ5rl8s=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "THEBLACKLABEL",
+                    "description": "THEBLACKLABEL Official Youtube"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUg8ZzloDPTrOiGztK0C9txQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "833927979",
+                "subscriberCount": "3070000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "129"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "2g94_6tR93sfxcfQ9ziLVVVOA7g",
+            "id": "UCqq-ovGE01ErlXakPihhKDA",
+            "snippet": {
+                "title": "1theK Originals - 원더케이 오리지널",
+                "description": "K-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움이 여기에! \n1theK(원더케이)의 다양한 오리지널 컨텐츠를 만나보세요.\n\n*Business Contact : 1theK.ad@kakaoent.com\n\nCopyrightⓒKakao Entertainment Corp. All rights reserved.\n",
+                "customUrl": "@1thekoriginals",
+                "publishedAt": "2019-06-20T03:02:02Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/TDgG3gDEow_yMqaNQtrFjK4PNe8QN6xuFGBhAIm-zcP_ZrAc3QS_IwIVIYxudkRHMxuHu09n=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/TDgG3gDEow_yMqaNQtrFjK4PNe8QN6xuFGBhAIm-zcP_ZrAc3QS_IwIVIYxudkRHMxuHu09n=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/TDgG3gDEow_yMqaNQtrFjK4PNe8QN6xuFGBhAIm-zcP_ZrAc3QS_IwIVIYxudkRHMxuHu09n=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "1theK Originals - 원더케이 오리지널",
+                    "description": "K-POP Wonderland, 1theK\n\nK-POP의 모든 즐거움이 여기에! \n1theK(원더케이)의 다양한 오리지널 컨텐츠를 만나보세요.\n\n*Business Contact : 1theK.ad@kakaoent.com\n\nCopyrightⓒKakao Entertainment Corp. All rights reserved.\n"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUqq-ovGE01ErlXakPihhKDA"
+                }
+            },
+            "statistics": {
+                "viewCount": "1171591695",
+                "subscriberCount": "1960000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2086"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "9QpoemD_lEdQUbPsAKIUz5hhXV8",
+            "id": "UC1SZFtYEUHYR1cfrdTvD1ug",
+            "snippet": {
+                "title": "MOODZ",
+                "description": "",
+                "customUrl": "@moodz_music",
+                "publishedAt": "2021-07-11T08:35:45.996051Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/8QR5haUZj0_2cKGwqW0IuKc--2-y2Aihb7taonhnMn4VwBgZPRjcqW6VyBicODA4RJXaJRzgxQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/8QR5haUZj0_2cKGwqW0IuKc--2-y2Aihb7taonhnMn4VwBgZPRjcqW6VyBicODA4RJXaJRzgxQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/8QR5haUZj0_2cKGwqW0IuKc--2-y2Aihb7taonhnMn4VwBgZPRjcqW6VyBicODA4RJXaJRzgxQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "MOODZ",
+                    "description": ""
+                },
+                "country": "UA"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UU1SZFtYEUHYR1cfrdTvD1ug"
+                }
+            },
+            "statistics": {
+                "viewCount": "333561",
+                "subscriberCount": "524",
+                "hiddenSubscriberCount": false,
+                "videoCount": "10"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "xndZhRFCf39XrSkw8RBVF8OHR2k",
+            "id": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+            "snippet": {
+                "title": "1theK (원더케이)",
+                "description": "\"K-pop Wonderland\" 1theK\n\nK-pop을 이끄는 국내 최고 아티스트들의 뮤직비디오부터,\n전 세계 팬들이 보고, 듣고, 참여할 수 있는 오리지널 컨텐츠들까지!\n1theK에서 가장 빠르게 만나보세요! :)\n\nWelcome to the official YouTube page of \"K-pop Wonderland\" 1theK\nEnjoy the leading K-Pop artists’ M/Vs, teasers and more exclusive originals for the K-pop fans all over the world on 1theK! \nStay tuned for the latest updates!\n\n*Business contact : 1theK.ad@kakaoent.com\n\nCopyrightⓒKakao Entertainment Corp. All rights reserved.\n",
+                "customUrl": "@1thek",
+                "publishedAt": "2011-01-31T07:04:16Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVpLYOZp69QTd5uVW3oIPZA4QF0mqHoSm9TJfTqdDM=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVpLYOZp69QTd5uVW3oIPZA4QF0mqHoSm9TJfTqdDM=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVpLYOZp69QTd5uVW3oIPZA4QF0mqHoSm9TJfTqdDM=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "1theK (원더케이)",
+                    "description": "\"K-pop Wonderland\" 1theK\n\nK-pop을 이끄는 국내 최고 아티스트들의 뮤직비디오부터,\n전 세계 팬들이 보고, 듣고, 참여할 수 있는 오리지널 컨텐츠들까지!\n1theK에서 가장 빠르게 만나보세요! :)\n\nWelcome to the official YouTube page of \"K-pop Wonderland\" 1theK\nEnjoy the leading K-Pop artists’ M/Vs, teasers and more exclusive originals for the K-pop fans all over the world on 1theK! \nStay tuned for the latest updates!\n\n*Business contact : 1theK.ad@kakaoent.com\n\nCopyrightⓒKakao Entertainment Corp. All rights reserved.\n"
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUweOkPb1wVVH0Q0Tlj4a5Pw"
+                }
+            },
+            "statistics": {
+                "viewCount": "23380020255",
+                "subscriberCount": "24400000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "17819"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "7a1f_z0zu6ZpX9YSByzUDFK-rHg",
+            "id": "UC-Fnix71vRP64WXeo0ikd0Q",
+            "snippet": {
+                "title": "IVE",
+                "description": "IVE (아이브) 공식 유튜브 채널\nIVE (아이브) Official Youtube Channel\n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ\n",
+                "customUrl": "@ivestarship",
+                "publishedAt": "2021-08-25T10:33:08.309706Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/mGIS9352z_O1V5m6rBoV76OTkoj3hsEjY7LL3UKwmoX30PHQe3TX8Uk7bZVxyrBe6uqiyj2YKA=s88-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/mGIS9352z_O1V5m6rBoV76OTkoj3hsEjY7LL3UKwmoX30PHQe3TX8Uk7bZVxyrBe6uqiyj2YKA=s240-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/mGIS9352z_O1V5m6rBoV76OTkoj3hsEjY7LL3UKwmoX30PHQe3TX8Uk7bZVxyrBe6uqiyj2YKA=s800-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "IVE",
+                    "description": "IVE (아이브) 공식 유튜브 채널\nIVE (아이브) Official Youtube Channel\n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ\n"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UU-Fnix71vRP64WXeo0ikd0Q"
+                }
+            },
+            "statistics": {
+                "viewCount": "692694924",
+                "subscriberCount": "2280000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "256"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "HqzKds46Auvt_2Nx7RIGXO0l8D4",
+            "id": "UCvwmF24IxoxOhmYOYHvDHXg",
+            "snippet": {
+                "title": "K-POP SHOCK",
+                "description": "K-POP SHOCK \n               Entertainment News\n\nK 엔터테인먼트 뉴스채널 입니다  국내외 소식을 가장 빠르게 전해드립니다\n\nThis is an entertainment news channel where you can find out everything about K-entertainment",
+                "customUrl": "@k-popshock818",
+                "publishedAt": "2019-03-10T04:02:29Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/-B3eigaRTE2JbenhogKIKolsUTp9duIuDsxW14jSIlGr9x0wwaZPGb12OjLsBFSBgV4EYRrPd-s=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/-B3eigaRTE2JbenhogKIKolsUTp9duIuDsxW14jSIlGr9x0wwaZPGb12OjLsBFSBgV4EYRrPd-s=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/-B3eigaRTE2JbenhogKIKolsUTp9duIuDsxW14jSIlGr9x0wwaZPGb12OjLsBFSBgV4EYRrPd-s=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "K-POP SHOCK",
+                    "description": "K-POP SHOCK \n               Entertainment News\n\nK 엔터테인먼트 뉴스채널 입니다  국내외 소식을 가장 빠르게 전해드립니다\n\nThis is an entertainment news channel where you can find out everything about K-entertainment"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUvwmF24IxoxOhmYOYHvDHXg"
+                }
+            },
+            "statistics": {
+                "viewCount": "88153809",
+                "subscriberCount": "57000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2549"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "Wb06tlgE-BR__tJgs6Qmn1CieIA",
+            "id": "UCe52oeb7Xv_KaJsEzcKXJJg",
+            "snippet": {
+                "title": "MBCkpop",
+                "description": "Welcome to the official YouTube page of MBC, MBC Kpop\nEnjoy \"Show! Music Core\" the hottest K-pop program and the essence of live music on \"The Masked Singer\". Subscribe and stay tuned for the latest updates!",
+                "customUrl": "@mbckpop",
+                "publishedAt": "2011-12-14T08:08:18Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVh5kqHwUlRvqvmWt7E00d5dCbHvYf95DanO-5ubw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVh5kqHwUlRvqvmWt7E00d5dCbHvYf95DanO-5ubw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVh5kqHwUlRvqvmWt7E00d5dCbHvYf95DanO-5ubw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "MBCkpop",
+                    "description": "Welcome to the official YouTube page of MBC, MBC Kpop\nEnjoy \"Show! Music Core\" the hottest K-pop program and the essence of live music on \"The Masked Singer\". Subscribe and stay tuned for the latest updates!"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUe52oeb7Xv_KaJsEzcKXJJg"
+                }
+            },
+            "statistics": {
+                "viewCount": "8678508892",
+                "subscriberCount": "10200000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "44915"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "QWXvwlDLZ4a2IJzqaSFCaO-b01g",
+            "id": "UCQ2O-iftmnlfrBuNsUUTofQ",
+            "snippet": {
+                "title": "채널 십오야",
+                "description": "채널십오야는 다양한 창작자들의 ‘달나라’가는 꿈같은 콘텐츠들이 업로드 될 예정입니다. 꽉찬 보름달 같은 많은 사랑 부탁드립니다. #사랑합니다구독감사합니다",
+                "customUrl": "@15ya.fullmoon",
+                "publishedAt": "2019-05-15T19:43:51Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/iSJa6x577EUe1dMcSGwCDuc-vql7b2rFprlumREgWmFwMRORGd6AD71T9tLzRJAjSAqeXtDHig=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/iSJa6x577EUe1dMcSGwCDuc-vql7b2rFprlumREgWmFwMRORGd6AD71T9tLzRJAjSAqeXtDHig=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/iSJa6x577EUe1dMcSGwCDuc-vql7b2rFprlumREgWmFwMRORGd6AD71T9tLzRJAjSAqeXtDHig=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "채널 십오야",
+                    "description": "채널십오야는 다양한 창작자들의 ‘달나라’가는 꿈같은 콘텐츠들이 업로드 될 예정입니다. 꽉찬 보름달 같은 많은 사랑 부탁드립니다. #사랑합니다구독감사합니다"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUQ2O-iftmnlfrBuNsUUTofQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "1334080403",
+                "subscriberCount": "5070000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "736"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "W4zO-c6OAz6WyS0X8VT-raL9K7c",
+            "id": "UCVEzR8VHu0JC5xlTr53cMwQ",
+            "snippet": {
+                "title": "DKDKTV",
+                "description": "Digging deeper into the Korean Wave.\n\n한류에 깊이를 더하다.",
+                "customUrl": "@dkdktv",
+                "publishedAt": "2016-09-12T03:56:41Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVVL-ZhSL1yPpIGLw3Z_e49QrOkpJ8YjAGNqdlaLw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVVL-ZhSL1yPpIGLw3Z_e49QrOkpJ8YjAGNqdlaLw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVVL-ZhSL1yPpIGLw3Z_e49QrOkpJ8YjAGNqdlaLw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "DKDKTV",
+                    "description": "Digging deeper into the Korean Wave.\n\n한류에 깊이를 더하다."
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUVEzR8VHu0JC5xlTr53cMwQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "200494932",
+                "subscriberCount": "796000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1394"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "rlEtbPfm_GTxue6kAr4qchA25uM",
+            "id": "UCLkAepWjdylmXSltofFvsYQ",
+            "snippet": {
+                "title": "BANGTANTV",
+                "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
+                "customUrl": "@bts",
+                "publishedAt": "2012-12-17T03:20:38Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "BANGTANTV",
+                    "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다."
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UULkAepWjdylmXSltofFvsYQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "19511002840",
+                "subscriberCount": "73600000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2115"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "JaVZPYrEVh3kUOvr9LAQypWhjkA",
+            "id": "UCmRZ-zoZ0ZdHRq9XvQzmSCQ",
+            "snippet": {
+                "title": "JoseOchoaTV",
+                "description": "Hi, I'm Jose! Thanks for visiting my YouTube channel!\nI make Reaction, Update, Commentary, Theory videos and more about BTS!\nMake sure to subscribe and follow me on all your favorite social media!",
+                "customUrl": "@joseochoatv",
+                "publishedAt": "2012-08-23T01:17:29Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/BZ1k2NEc--S2aRb12mTKStR7Uv1vUgnyBAkOzrf6Q2O48rfYmEM3rBVObnZS9Im1WpDK3X1ceg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/BZ1k2NEc--S2aRb12mTKStR7Uv1vUgnyBAkOzrf6Q2O48rfYmEM3rBVObnZS9Im1WpDK3X1ceg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/BZ1k2NEc--S2aRb12mTKStR7Uv1vUgnyBAkOzrf6Q2O48rfYmEM3rBVObnZS9Im1WpDK3X1ceg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "JoseOchoaTV",
+                    "description": "Hi, I'm Jose! Thanks for visiting my YouTube channel!\nI make Reaction, Update, Commentary, Theory videos and more about BTS!\nMake sure to subscribe and follow me on all your favorite social media!"
+                },
+                "country": "US"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUmRZ-zoZ0ZdHRq9XvQzmSCQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "222014243",
+                "subscriberCount": "654000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1430"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "oEP3BCwBFgRJvzthDUIPezsFZ9U",
+            "id": "UCjfqjGIjR3AtVsvzCc4fO1g",
+            "snippet": {
+                "title": "HYBE LABELS +",
+                "description": "Welcome to the official YouTube channel of HYBE LABELS +\n",
+                "customUrl": "@hybelabelsplus",
+                "publishedAt": "2022-05-26T04:23:11.511922Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/m_1dEnWPKaBqlTP5zg6sz2FOtlE6HfCsZj4-lOC6vTmoZXARkHuJEto-pqtCINxRaRU2rGGX=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/m_1dEnWPKaBqlTP5zg6sz2FOtlE6HfCsZj4-lOC6vTmoZXARkHuJEto-pqtCINxRaRU2rGGX=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/m_1dEnWPKaBqlTP5zg6sz2FOtlE6HfCsZj4-lOC6vTmoZXARkHuJEto-pqtCINxRaRU2rGGX=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "HYBE LABELS +",
+                    "description": "Welcome to the official YouTube channel of HYBE LABELS +\n"
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUjfqjGIjR3AtVsvzCc4fO1g"
+                }
+            },
+            "statistics": {
+                "viewCount": "24810512",
+                "subscriberCount": "209000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "254"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "S1kNIx9tq9dOolW-Bbc5AY7clqM",
+            "id": "UCe-hlnP0Zho7FRWxcj9ZvLg",
+            "snippet": {
+                "title": "Taejiu",
+                "description": "Hi there I make Kpop essay and reaction content. Hopefully I don’t waste your time ❤️\n",
+                "customUrl": "@taejiu",
+                "publishedAt": "2012-04-13T21:47:39Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/HWplTwDsP-2TD8Flug7gVEgdRKhQ-ygVueNnr01sFF6hDg84r50K-IngiQp1yv3U7ReRtXzGTw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/HWplTwDsP-2TD8Flug7gVEgdRKhQ-ygVueNnr01sFF6hDg84r50K-IngiQp1yv3U7ReRtXzGTw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/HWplTwDsP-2TD8Flug7gVEgdRKhQ-ygVueNnr01sFF6hDg84r50K-IngiQp1yv3U7ReRtXzGTw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Taejiu",
+                    "description": "Hi there I make Kpop essay and reaction content. Hopefully I don’t waste your time ❤️\n"
+                },
+                "country": "US"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUe-hlnP0Zho7FRWxcj9ZvLg"
+                }
+            },
+            "statistics": {
+                "viewCount": "1357346",
+                "subscriberCount": "9140",
+                "hiddenSubscriberCount": false,
+                "videoCount": "137"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "zXYkqEQq6fnpByc3ZIvROQRorG8",
+            "id": "UCS_hnpJLQTvBkqALgapi_4g",
+            "snippet": {
+                "title": "스브스케이팝 X INKIGAYO",
+                "description": "'스브스케이팝/SBSKPOP'은 기존의  Inkigayo인기가요 채널의 확장 버전으로 새롭게 태어난 SBS 공식 디지털 KPOP채널입니다.\n기존의 인기가요 영상 클립들은 물론, SBS Super concert 등 국내외 케이팝 이벤트의 공식 영상,직캠,미공개 독점 스페셜 영상,\n그리고 '스브스케이팝/SBSKPOP'이 직접 제작한 참신하고 재밌는 ORIGINAL 콘텐츠등을 해외 뿐 아니라 국내 팬들에게도 제공하려 합니다. \n그동안 함께 해주신 Inkigayo구독자분들 그리고 새롭게 앞으로 함께 해주실 구독자분들의 많은 사랑을 바랍니다\nYou can check out all the special clips and official fancams of super concerts and Inkigayo as well as the clips of kpop stars at the '스브스케이팝/SBSKPOP' channel right now.\nSBS 인기가요[Inkigayo] is a k-pop tv program broadcast by SBS. \nIt airs live every Sunday at 3:50 PM KST. \nThe show features some of the latest and most popular artists who perform on stage.",
+                "customUrl": "@sbskpop",
+                "publishedAt": "2011-02-17T02:17:55Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/Uxpz5J0EcsFJRbqh4Ip7i3TTNsxTh5jVUxfZmV1DTrCQM_ihfzBGMmkfSRGWoFK9M0anhIie=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "스브스케이팝 X INKIGAYO",
+                    "description": "'스브스케이팝/SBSKPOP'은 기존의  Inkigayo인기가요 채널의 확장 버전으로 새롭게 태어난 SBS 공식 디지털 KPOP채널입니다.\n기존의 인기가요 영상 클립들은 물론, SBS Super concert 등 국내외 케이팝 이벤트의 공식 영상,직캠,미공개 독점 스페셜 영상,\n그리고 '스브스케이팝/SBSKPOP'이 직접 제작한 참신하고 재밌는 ORIGINAL 콘텐츠등을 해외 뿐 아니라 국내 팬들에게도 제공하려 합니다. \n그동안 함께 해주신 Inkigayo구독자분들 그리고 새롭게 앞으로 함께 해주실 구독자분들의 많은 사랑을 바랍니다\nYou can check out all the special clips and official fancams of super concerts and Inkigayo as well as the clips of kpop stars at the '스브스케이팝/SBSKPOP' channel right now.\nSBS 인기가요[Inkigayo] is a k-pop tv program broadcast by SBS. \nIt airs live every Sunday at 3:50 PM KST. \nThe show features some of the latest and most popular artists who perform on stage."
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUS_hnpJLQTvBkqALgapi_4g"
+                }
+            },
+            "statistics": {
+                "viewCount": "5591658198",
+                "subscriberCount": "7180000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "31977"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "MTGCUyY8gNGr5MsRXff-irtxw-4",
+            "id": "UCd-OrgPLrnQiQBcq19j5oEQ",
+            "snippet": {
+                "title": "GENIE MUSIC",
+                "description": "Welcome to GENIE MUSIC official YouTube channel🎵\n지니뮤직 공식 유튜브 채널에 오신것을 환영합니다!\n\n✔지금 듣고 계신 음악은 지니 ( http://www.genie.co.kr ) 및 국내 모든 음원사이트에서도  즐기실 수 있습니다.\n Musics are also available on Spotify, Apple Music, and Youtube Music\n✔본 채널의 조회수는 각종 차트 집계에 공식 반영 됩니다.\n Views from this channel will be counted officially for charts.\n\n더욱 더 많은 음악 콘텐츠와 소식을 들으시려면 아래 채널을 방문해주세요😉\nhttps://www.instagram.com/genie_music/\nhttps://www.facebook.com/genieplay\n",
+                "customUrl": "@genie",
+                "publishedAt": "2012-03-27T05:00:16Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVYkOdC6HUHIGrDF95uh-RfxCeetpp_BtXgB_NnkA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVYkOdC6HUHIGrDF95uh-RfxCeetpp_BtXgB_NnkA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVYkOdC6HUHIGrDF95uh-RfxCeetpp_BtXgB_NnkA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "GENIE MUSIC",
+                    "description": "Welcome to GENIE MUSIC official YouTube channel🎵\n지니뮤직 공식 유튜브 채널에 오신것을 환영합니다!\n\n✔지금 듣고 계신 음악은 지니 ( http://www.genie.co.kr ) 및 국내 모든 음원사이트에서도  즐기실 수 있습니다.\n Musics are also available on Spotify, Apple Music, and Youtube Music\n✔본 채널의 조회수는 각종 차트 집계에 공식 반영 됩니다.\n Views from this channel will be counted officially for charts.\n\n더욱 더 많은 음악 콘텐츠와 소식을 들으시려면 아래 채널을 방문해주세요😉\nhttps://www.instagram.com/genie_music/\nhttps://www.facebook.com/genieplay\n"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUd-OrgPLrnQiQBcq19j5oEQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "528219186",
+                "subscriberCount": "1450000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "4683"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "tT6xMJsO_VaOCQX0Xec_98pE5SA",
+            "id": "UCy0dIOFuIfbmZ2G2oPgt22w",
+            "snippet": {
+                "title": "サランピTV〈SaranpiTV〉",
+                "description": "",
+                "customUrl": "@saranpitv",
+                "publishedAt": "2019-01-16T00:53:18Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/qsGWknqeCLhXB-xo3Ov0GwHfuJrE-Sspvg2f7yCSZ3JBLFyxnmGSjzKI83CEwmcuoZO-FQf35Q=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/qsGWknqeCLhXB-xo3Ov0GwHfuJrE-Sspvg2f7yCSZ3JBLFyxnmGSjzKI83CEwmcuoZO-FQf35Q=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/qsGWknqeCLhXB-xo3Ov0GwHfuJrE-Sspvg2f7yCSZ3JBLFyxnmGSjzKI83CEwmcuoZO-FQf35Q=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "サランピTV〈SaranpiTV〉",
+                    "description": ""
+                },
+                "country": "JP"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUy0dIOFuIfbmZ2G2oPgt22w"
+                }
+            },
+            "statistics": {
+                "viewCount": "226539963",
+                "subscriberCount": "230000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "3004"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "kwOykiG6gjUKgRJPOrLVHlU9tO0",
+            "id": "UCu976UrWTIh3-3c8WImzVFA",
+            "snippet": {
+                "title": "Doyouram - Everyday K-Culture",
+                "description": "K-POP과 K-DRAMA 등 한국문화에 대한 정보를 재미있게 풀어가는 채널입니다.\nThis is a channel where we introduce various information\nabout Korean culture, including K-POP and K-DRAMA, in a fun way!\n\n매일 K-POP, K-DRAMA 아티스트들에 대한 정확하고 흥미로운 이야기와\n관련 뉴스들을 중립적인 시선에서 전달해드리겠습니다.\nWe will bring you accurate, interesting stories and related news stories\nabout K-POP artists & K-DRAMA actors from a neutral perspective.\n\n두유람에 문의사항이 있거나 협업하고 싶으시면\ndoyouramforyou@gmail.com 으로 문의주세요 !!\nFor any questions or collaborations,\nplease contact us at doyouramforyou@gmail.com !!\n",
+                "customUrl": "@doyouram-everydayk-culture6490",
+                "publishedAt": "2019-02-12T03:11:34Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWO85YbSCoM422YB4kQ-m7_ZP_7yPd6IFscCO2e=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWO85YbSCoM422YB4kQ-m7_ZP_7yPd6IFscCO2e=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWO85YbSCoM422YB4kQ-m7_ZP_7yPd6IFscCO2e=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Doyouram - Everyday K-Culture",
+                    "description": "K-POP과 K-DRAMA 등 한국문화에 대한 정보를 재미있게 풀어가는 채널입니다.\nThis is a channel where we introduce various information\nabout Korean culture, including K-POP and K-DRAMA, in a fun way!\n\n매일 K-POP, K-DRAMA 아티스트들에 대한 정확하고 흥미로운 이야기와\n관련 뉴스들을 중립적인 시선에서 전달해드리겠습니다.\nWe will bring you accurate, interesting stories and related news stories\nabout K-POP artists & K-DRAMA actors from a neutral perspective.\n\n두유람에 문의사항이 있거나 협업하고 싶으시면\ndoyouramforyou@gmail.com 으로 문의주세요 !!\nFor any questions or collaborations,\nplease contact us at doyouramforyou@gmail.com !!\n"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUu976UrWTIh3-3c8WImzVFA"
+                }
+            },
+            "statistics": {
+                "viewCount": "188437479",
+                "subscriberCount": "233000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1015"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "W_dnL265AC7zXf9ymiCe-4D_RTM",
+            "id": "UCbp1HhKUDmeI6enMXUxtgrg",
+            "snippet": {
+                "title": "연예 뒤통령이진호",
+                "description": "스포츠조선 연예부-야구부\n CJ E&M enews 방송팀 출신\n 경력 14년 차 연예부 기자\n \n여러분이 궁금해 하는 내용을 취재해 색다른 재미를 선사하겠습니다!\n\n출연 및 제보 문의는 caranian@gmail.com",
+                "customUrl": "@behind_master",
+                "publishedAt": "2012-09-30T06:27:08Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWLC7g4m7h33iEJa2RSvRXQzm1j-FG2ne341mHHxg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWLC7g4m7h33iEJa2RSvRXQzm1j-FG2ne341mHHxg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWLC7g4m7h33iEJa2RSvRXQzm1j-FG2ne341mHHxg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "연예 뒤통령이진호",
+                    "description": "스포츠조선 연예부-야구부\n CJ E&M enews 방송팀 출신\n 경력 14년 차 연예부 기자\n \n여러분이 궁금해 하는 내용을 취재해 색다른 재미를 선사하겠습니다!\n\n출연 및 제보 문의는 caranian@gmail.com"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUbp1HhKUDmeI6enMXUxtgrg"
+                }
+            },
+            "statistics": {
+                "viewCount": "189874763",
+                "subscriberCount": "413000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1070"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "Zk_l5R8-OuEN-42IinSlqpSUiSI",
+            "id": "UCCy_q-N7F2FOIZ6ZggHIAKg",
+            "snippet": {
+                "title": "Sony Music (Japan)",
+                "description": "ようこそソニーミュージックチャンネルへ。\nここではミュージックビデオやライブ映像など、ソニーミュージックの様々な音楽コンテンツを紹介しています。\n\nソニーミュージックは、マーケティング、タイアップ、アーティスト・タレント・クリエイターの発掘・育成、海外事業推進に加え、デジタルコンテンツ事業、ライブエンタテインメント事業、音楽ストリーミング事業、スポーツエンタテインメント事業等、新たなエンタテインメントビジネスの創出にチャレンジしています。\n\n―\n「Sony Music Entertainment (Japan) Inc.」OFFICIAL SITE\nhttps://www.sme.co.jp/\n\nTwitter \nhttps://twitter.com/SonyMusic_JPN\nInstagram \nhttps://www.instagram.com/sonymusicjapan/\nFacebook \nhttps://www.facebook.com/SonyMusicJPN\n\n―\n\n人にフォーカスするエンタメマガジン「Cocotame」では最新エンタメニュース、アーティストインタビュー、エンタメビジネス最新情報、音楽カルチャーコラムなどをお届けしています。\n\n詳しくはこちら\nhttps://cocotame.jp/\n",
+                "customUrl": "@sonymusicjapan",
+                "publishedAt": "2011-07-22T05:54:18Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/IN-QkiAGysNt2hIwxho4UZ-Fs7aUaDiyqUvef2q8SZIz1xiCM8_H92Ms3BSvMJa4JuXCiKFuUQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/IN-QkiAGysNt2hIwxho4UZ-Fs7aUaDiyqUvef2q8SZIz1xiCM8_H92Ms3BSvMJa4JuXCiKFuUQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/IN-QkiAGysNt2hIwxho4UZ-Fs7aUaDiyqUvef2q8SZIz1xiCM8_H92Ms3BSvMJa4JuXCiKFuUQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "Sony Music (Japan)",
+                    "description": "ようこそソニーミュージックチャンネルへ。\nここではミュージックビデオやライブ映像など、ソニーミュージックの様々な音楽コンテンツを紹介しています。\n\nソニーミュージックは、マーケティング、タイアップ、アーティスト・タレント・クリエイターの発掘・育成、海外事業推進に加え、デジタルコンテンツ事業、ライブエンタテインメント事業、音楽ストリーミング事業、スポーツエンタテインメント事業等、新たなエンタテインメントビジネスの創出にチャレンジしています。\n\n―\n「Sony Music Entertainment (Japan) Inc.」OFFICIAL SITE\nhttps://www.sme.co.jp/\n\nTwitter \nhttps://twitter.com/SonyMusic_JPN\nInstagram \nhttps://www.instagram.com/sonymusicjapan/\nFacebook \nhttps://www.facebook.com/SonyMusicJPN\n\n―\n\n人にフォーカスするエンタメマガジン「Cocotame」では最新エンタメニュース、アーティストインタビュー、エンタメビジネス最新情報、音楽カルチャーコラムなどをお届けしています。\n\n詳しくはこちら\nhttps://cocotame.jp/\n"
+                },
+                "country": "JP"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUCy_q-N7F2FOIZ6ZggHIAKg"
+                }
+            },
+            "statistics": {
+                "viewCount": "2882960484",
+                "subscriberCount": "2290000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "3657"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "_as6s3woZe-Qz0x2paCuCp-rX6g",
+            "id": "UCUejcRNrbZfsKg_fCxEsQ9w",
+            "snippet": {
+                "title": "jeanzies",
+                "description": "⋆ ˚｡⋆୨୧˚Tokkis🐰˚୨୧⋆｡˚ ⋆\n\n⪼15\n\nHi, this channel is dedicated to moments of the prettiest girls in the entire universe 🌸\n\n┆Lets grow with together┆\n𝕀 𝕝𝕠𝕧𝕖 𝕪𝕠𝕦 𝕘𝕦𝕪𝕤\n◍◍◍◍",
+                "customUrl": "@jeanziesindablock",
+                "publishedAt": "2021-03-26T23:38:47.550277Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/12IWkRvqaaJ7Nkcoq6NNW9w8Q5T7LBi-FyjLYL10GC-BbsdB5GkRnCL-qZpTHTKYHb9jJoFUMXs=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/12IWkRvqaaJ7Nkcoq6NNW9w8Q5T7LBi-FyjLYL10GC-BbsdB5GkRnCL-qZpTHTKYHb9jJoFUMXs=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/12IWkRvqaaJ7Nkcoq6NNW9w8Q5T7LBi-FyjLYL10GC-BbsdB5GkRnCL-qZpTHTKYHb9jJoFUMXs=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "jeanzies",
+                    "description": "⋆ ˚｡⋆୨୧˚Tokkis🐰˚୨୧⋆｡˚ ⋆\n\n⪼15\n\nHi, this channel is dedicated to moments of the prettiest girls in the entire universe 🌸\n\n┆Lets grow with together┆\n𝕀 𝕝𝕠𝕧𝕖 𝕪𝕠𝕦 𝕘𝕦𝕪𝕤\n◍◍◍◍"
+                },
+                "country": "CA"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUUejcRNrbZfsKg_fCxEsQ9w"
+                }
+            },
+            "statistics": {
+                "viewCount": "11565781",
+                "subscriberCount": "11600",
+                "hiddenSubscriberCount": false,
+                "videoCount": "50"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "P-Z0MdEwRESsG0uyk4JkxMIZhSk",
+            "id": "UCiwQRG2sCcfjKkgxMEdJGPg",
+            "snippet": {
+                "title": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+                "description": "MBC의 🔥HOT🔥한 영상을 \n내맘대로ㅡ 편하게ㅡ ! \n휘뚜루 마뚜루 즐길 수 있는 채널!\nᕕ( ᐛ )ᕗ  엠뚜루마뚜루 ᕕ( ᐛ )ᕗ",
+                "customUrl": "@mbc_officialchannel",
+                "publishedAt": "2020-09-21T05:14:01.912391Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJW5bAd-mSS6nzD0RZypjZT-TQiM4UU4dqefFg8f=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJW5bAd-mSS6nzD0RZypjZT-TQiM4UU4dqefFg8f=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJW5bAd-mSS6nzD0RZypjZT-TQiM4UU4dqefFg8f=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+                    "description": "MBC의 🔥HOT🔥한 영상을 \n내맘대로ㅡ 편하게ㅡ ! \n휘뚜루 마뚜루 즐길 수 있는 채널!\nᕕ( ᐛ )ᕗ  엠뚜루마뚜루 ᕕ( ᐛ )ᕗ"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUiwQRG2sCcfjKkgxMEdJGPg"
+                }
+            },
+            "statistics": {
+                "viewCount": "2742107223",
+                "subscriberCount": "1680000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "4446"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "zt7BsPnaqulZIykM-6Ig_J7OAx0",
+            "id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "snippet": {
+                "title": "KBS WORLD TV",
+                "description": "KBS WORLD TV is a television channel for international audiences provided by the Korean Broadcasting System (KBS).\nIt's your premier window on Korean contents with a nonstop, 24-hour a day, 7-day a week stream of Korea's latest and most popular programs.",
+                "customUrl": "@kbsworldtv",
+                "publishedAt": "2007-01-06T03:50:16Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWVOf8SbzSl7ivsvt-b720-8fhEdvbzxXtVz8WJW9E=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWVOf8SbzSl7ivsvt-b720-8fhEdvbzxXtVz8WJW9E=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWVOf8SbzSl7ivsvt-b720-8fhEdvbzxXtVz8WJW9E=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "KBS WORLD TV",
+                    "description": "KBS WORLD TV is a television channel for international audiences provided by the Korean Broadcasting System (KBS).\nIt's your premier window on Korean contents with a nonstop, 24-hour a day, 7-day a week stream of Korea's latest and most popular programs."
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UU5BMQOsAB8hKUyHu9KI6yig"
+                }
+            },
+            "statistics": {
+                "viewCount": "14607658215",
+                "subscriberCount": "18600000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "61598"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "_cpLizXEt5M2t7StX-MdVWyK0uM",
+            "id": "UCbD8EppRX3ZwJSou-TVo90A",
+            "snippet": {
+                "title": "Mnet K-POP",
+                "description": "K-POP Channel of World's No.1 Music Channel Mnet\nWatch the latest and hottest K-POP contents on ✨Mnet K-POP✨\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n",
+                "customUrl": "@mnet",
+                "publishedAt": "2006-03-09T02:12:08Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWCkJRMswQaD22RRbtBpW-R_QOYZ2UPdOaJc7G-CZM=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWCkJRMswQaD22RRbtBpW-R_QOYZ2UPdOaJc7G-CZM=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWCkJRMswQaD22RRbtBpW-R_QOYZ2UPdOaJc7G-CZM=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Mnet K-POP",
+                    "description": "K-POP Channel of World's No.1 Music Channel Mnet\nWatch the latest and hottest K-POP contents on ✨Mnet K-POP✨\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n"
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUbD8EppRX3ZwJSou-TVo90A"
+                }
+            },
+            "statistics": {
+                "viewCount": "14088780457",
+                "subscriberCount": "20200000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "31086"
+            }
+        }, {
+            "kind": "youtube#channel",
+            "etag": "x-1hEmFjG1EvRjLByB35V-4ee44",
+            "id": "UCzznO4xSV8BKnUBPyswtCUw",
+            "snippet": {
+                "title": "Arirang News",
+                "description": "The Arirang NEWS is quickly delivered the news about National/Politics, North Korea, Economy, IT/Science, Foreign Policy, World, Life/Culture of the Korea.\n\n아리랑의 대표 뉴스 프로그램인 \"아리랑 뉴스\"는 객관적이고 심도있는 논평을 통한 국내외 뉴스를 전 세계에 보도합니다.\n \n     \nwww.arirang.com \n    \nⓒ The Korea International Broadcasting Foundation All Rights Reserved\n",
+                "customUrl": "@arirangcokrarirangnews",
+                "publishedAt": "2009-06-22T06:12:43Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/4PthwEL90ZIhkgYJXf2MB31m0TzindJ6f_j5frukEUTLtbnL2MHBD-CGDaV5_TRTdiJQMJJyAg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/4PthwEL90ZIhkgYJXf2MB31m0TzindJ6f_j5frukEUTLtbnL2MHBD-CGDaV5_TRTdiJQMJJyAg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/4PthwEL90ZIhkgYJXf2MB31m0TzindJ6f_j5frukEUTLtbnL2MHBD-CGDaV5_TRTdiJQMJJyAg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Arirang News",
+                    "description": "The Arirang NEWS is quickly delivered the news about National/Politics, North Korea, Economy, IT/Science, Foreign Policy, World, Life/Culture of the Korea.\n\n아리랑의 대표 뉴스 프로그램인 \"아리랑 뉴스\"는 객관적이고 심도있는 논평을 통한 국내외 뉴스를 전 세계에 보도합니다.\n \n     \nwww.arirang.com \n    \nⓒ The Korea International Broadcasting Foundation All Rights Reserved\n"
+                },
+                "country": "US"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUzznO4xSV8BKnUBPyswtCUw"
+                }
+            },
+            "statistics": {
+                "viewCount": "281573125",
+                "subscriberCount": "622000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "139590"
+            }
+        }
+    ]
+}
+

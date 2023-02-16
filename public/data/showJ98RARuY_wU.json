@@ -1,0 +1,144 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "8-CZumt-gH0ivFmnF4ueo6-FDvA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ARh1WEfDYb5GZEpLOt1Xkn7wOmY",
+            "id": "J98RARuY_wU",
+            "snippet": {
+                "publishedAt": "2022-08-29T14:00:08Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "IVE 아이브 'After LIKE' DANCE PRACTICE",
+                "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J98RARuY_wU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IVE",
+                "tags": [
+                    "Kpop",
+                    "girl group",
+                    "1theK",
+                    "Starshiptv",
+                    "starship",
+                    "뮤비",
+                    "티져",
+                    "MV",
+                    "Teaser",
+                    "신곡",
+                    "new",
+                    "song",
+                    "한류",
+                    "idol",
+                    "hallyu",
+                    "ロエン",
+                    "ミュージック",
+                    "ミュージックビデオ",
+                    "アイドル",
+                    "韓流",
+                    "韓国",
+                    "아이돌",
+                    "아이브",
+                    "IVE",
+                    "アイヴ",
+                    "LOGO",
+                    "MOTION",
+                    "로고",
+                    "유진",
+                    "원영",
+                    "가을",
+                    "레이",
+                    "리즈",
+                    "이서",
+                    "YUJIN",
+                    "GAEUL",
+                    "REI",
+                    "WONYOUNG",
+                    "LIZ",
+                    "LEESEO",
+                    "ユジン",
+                    "ガウル",
+                    "レイ",
+                    "ウォニョン",
+                    "リズ",
+                    "イソ",
+                    "11",
+                    "일레븐",
+                    "eleven",
+                    "take it",
+                    "테이킷",
+                    "테이크잇",
+                    "팬클럽",
+                    "fanclub",
+                    "official",
+                    "dive",
+                    "다이브",
+                    "photoshoot",
+                    "behind",
+                    "Behind the scenes",
+                    "아이브온",
+                    "IVE ON",
+                    "비하인드",
+                    "러브다이브",
+                    "LOVE DIVE",
+                    "After LIKE",
+                    "애프터라이크",
+                    "My satisfaction",
+                    "Iwillsurvive",
+                    "안무영쌍",
+                    "DANCE PRACTICE"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "IVE 아이브 'After LIKE' DANCE PRACTICE",
+                    "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9240977",
+                "likeCount": "256791",
+                "favoriteCount": "0",
+                "commentCount": "3462"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "plugins": ["@typescript-eslint", "react", "prettier"],
+  "extends": ["plugin:react/recommended", "plugin:@typescript-eslint/recommended"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/display-name": "off",
+    "react/no-unescaped-entities": "off",
+    "react/jsx-curly-brace-presence": [
+      "warn",
+      {
+        "props": "never",
+        "children": "never"
+      }
+    ],
+    "react/jsx-boolean-value": ["warn", "never"],
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/no-inferrable-types": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-unused-vars": ["warn", { "argsIgnorePattern": "^_", "ignoreRestSiblings": true }],
+    "react/prop-types": "off",
+    "@next/next/no-img-element": "off"
+  },
+  "ignorePatterns": ["node_modules", "appspec", "public", "dist"],
+  "settings": {
+    "react": {
+      "version": "detect" // https://github.com/yannickcr/eslint-plugin-react#configuration
+    }
+  }
+}

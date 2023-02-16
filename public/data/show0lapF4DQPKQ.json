@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "3V5_dQNGT9fCJbkXxUfLffMSXKY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "JY2PtIat-D35FdXcCPaFz-qxNdA",
+            "id": "0lapF4DQPKQ",
+            "snippet": {
+                "publishedAt": "2020-03-04T15:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) 'Black Swan' Official MV",
+                "description": "BTS (방탄소년단) 'Black Swan' Official MV\n\n\nCredits:\nDirector : YongSeok Choi (Lumpens)\nCo-Director : Guzza (Lumpens)\nAssistant Director : Jihye Yoon (Lumpens)\nExecutive Producer / Producer : Tiffany Suh\n\nDirector of Photography : Hyunwoo Nam (GDW)\nFocus Puller : Sangwoo Yoon\nB Cam : Eumko\n2nd AC : Eunki Kim\nCamera Crew : Robin Kim, Isue shin, Alec Echaverria, Matt Maio\n\nJIB Operator : YoungJoong Kim, Hyun In Kim\n\nCo-production company : FREENJOY\nExecutive Producer : Nathan Scherrer\nProduction Supervisor : Sina Pars, Joe Keenan\nProduction Coordinator : Matt Kovacs\nClient Liaison : Ran Ro\n\n1st AD : Joe Suarez\n2nd AD Liaison : Joseph Kim\nLocation Manager : Laura Dominguez\n\nGaffer : Kyle Bryson\nKey Grip : Wadsworth Peters\n\nColor : Company 3\nColorist : Charles Bunnag\nSenior Producer : Gabriel Wakeman\nAssociate Producer : Bianca Yi\n\nVisual Creative : Nu Kim, Sabinne Cheon, Lee Sun Kyoung, Kim Ga Eun\nPerformance Directing : Son Sung Deuk, Lee Ga Hun, Lee Byung Eun\nArtist Management : Kim Shin Gyu, Kim Su Bin, Park Jun Tae, An Da Sol, Ahn Jong Hun, Lee Jung Min\n\n\nBig Hit Entertainment. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by Big Hit Entertainment, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit  \nhttps://app.weverse.io/gpt4o \nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com   \n\n#BTS #방탄소년단 #BlackSwan #MAP_OF_THE_SOUL_7 #MV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "BIGHIT",
+                    "빅히트",
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "방탄"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'Black Swan' Official MV",
+                    "description": "BTS (방탄소년단) 'Black Swan' Official MV\n\n\nCredits:\nDirector : YongSeok Choi (Lumpens)\nCo-Director : Guzza (Lumpens)\nAssistant Director : Jihye Yoon (Lumpens)\nExecutive Producer / Producer : Tiffany Suh\n\nDirector of Photography : Hyunwoo Nam (GDW)\nFocus Puller : Sangwoo Yoon\nB Cam : Eumko\n2nd AC : Eunki Kim\nCamera Crew : Robin Kim, Isue shin, Alec Echaverria, Matt Maio\n\nJIB Operator : YoungJoong Kim, Hyun In Kim\n\nCo-production company : FREENJOY\nExecutive Producer : Nathan Scherrer\nProduction Supervisor : Sina Pars, Joe Keenan\nProduction Coordinator : Matt Kovacs\nClient Liaison : Ran Ro\n\n1st AD : Joe Suarez\n2nd AD Liaison : Joseph Kim\nLocation Manager : Laura Dominguez\n\nGaffer : Kyle Bryson\nKey Grip : Wadsworth Peters\n\nColor : Company 3\nColorist : Charles Bunnag\nSenior Producer : Gabriel Wakeman\nAssociate Producer : Bianca Yi\n\nVisual Creative : Nu Kim, Sabinne Cheon, Lee Sun Kyoung, Kim Ga Eun\nPerformance Directing : Son Sung Deuk, Lee Ga Hun, Lee Byung Eun\nArtist Management : Kim Shin Gyu, Kim Su Bin, Park Jun Tae, An Da Sol, Ahn Jong Hun, Lee Jung Min\n\n\nBig Hit Entertainment. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by Big Hit Entertainment, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit  \nhttps://app.weverse.io/gpt4o \nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://i.youku.com/btsofficial \nhttp://btsblog.ibighit.com   \n\n#BTS #방탄소년단 #BlackSwan #MAP_OF_THE_SOUL_7 #MV"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

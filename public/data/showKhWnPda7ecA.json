@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "jInoa_V8b2rlIU_ABTv0mbu30EE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RDA_NIDmJq7elK99knD-0Q8EKT0",
+            "id": "KhWnPda7ecA",
+            "snippet": {
+                "publishedAt": "2022-09-02T09:40:45Z",
+                "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+                "title": "After LIKE - IVE  アイヴ [Music Bank] | KBS WORLD TV 220902",
+                "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#Wonyoung #Sunghoon\n\nFri 17:00 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#AfterLIKE #IVE  #アイヴ\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KhWnPda7ecA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS WORLD TV",
+                "tags": [
+                    "kbs",
+                    "kbsworld",
+                    "kbs world",
+                    "yt:cc=on",
+                    "KBSWorld",
+                    "KBS",
+                    "kbsworldTV",
+                    "kbs월드",
+                    "월드TV",
+                    "kbs 월드",
+                    "world tv",
+                    "KBS WORLD TV",
+                    "アイヴ",
+                    "IVE",
+                    "After LIKE"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "After LIKE - IVE  アイヴ [Music Bank] | KBS WORLD TV 220902",
+                    "description": "#MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行\n#Wonyoung #Sunghoon\n\nFri 17:00 | Re-run : Sun 04:30, 12:40 (Seoul, UTC+9)\nKBS WORLD TV YouTube LIVE : 5PM (Seoul, UTC+9)\n\n#AfterLIKE #IVE  #アイヴ\n\n➕ Music Bank\n2022 : https://youtube.com/playlist?list=PLMf7VY8La5REOohUTNebLTtU4Je5V4vft\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5RExE1YkVdBCHpaLsay2SnNa\n➕ Song Festival\n2021 : https://youtube.com/playlist?list=PLMf7VY8La5REQ1HJ1KqjWsZ9tTDKM1fgI\n2020 : https://youtube.com/playlist?list=PLMf7VY8La5RGym7CKoCfDFz_qb_WxU8Ry\n➕ Never Stop! Online Compilation Concert\nSeason #2 : https://youtube.com/playlist?list=PLMf7VY8La5RHtUcGjsT8qmRhfJG1ICQDo\nSeason #1 : https://youtube.com/playlist?list=PLMf7VY8La5RFFgnKp0iiXwKX39EGzhsDF\n➕ Exclusive\nBTS Stage : https://youtube.com/playlist?list=PLMf7VY8La5RFAM6Sgg4M9SkyGIusuhnac\nEditor's Pick! : https://youtube.com/playlist?list=PLMf7VY8La5RG9xT3U4l0GAPuA4CdeIi3R\n➕ LEGEND Video : \nhttps://youtube.com/playlist?list=PLMf7VY8La5RFS0XWTWFycvquksqgPeQ80\n\n➕ Subscribe KBS WORLD TV Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage : http://www.kbsworld.co.kr \nFacebook : http://www.facebook.com/kbsworld\nTwitter : http://twitter.com/kbsworldtv \nInstagram : https://www.instagram.com/kbsworldtv/\nLine : https://goo.gl/g5iRQV\nAndroid Download : https://bit.ly/3Io5sri\nIOS Download : https://apple.co/3yQ0n7Z"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2961401",
+                "likeCount": "83521",
+                "favoriteCount": "0",
+                "commentCount": "1042"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

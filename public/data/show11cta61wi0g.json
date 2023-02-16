@@ -1,0 +1,75 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "BOjcsxQqV7GZ_CKw-es42NEVQyA",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "RswnqR_OAbzXpilNBdis8vU_e8E",
+            "id": "11cta61wi0g",
+            "snippet": {
+                "publishedAt": "2022-08-18T09:00:01Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+                "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Dongle Shin\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\n\n#NewJeans #뉴진스\n#HypeBoy #NewJeans_HypeBoy\n#NewJeans_1st_EP #WeareNewJeans\n#ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/11cta61wi0g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "tags": [
+                    "HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+                    "description": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Dongle Shin\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\n\n#NewJeans #뉴진스\n#HypeBoy #NewJeans_HypeBoy\n#NewJeans_1st_EP #WeareNewJeans\n#ADOR #어도어"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "74039308",
+                "likeCount": "1029050",
+                "favoriteCount": "0",
+                "commentCount": "11742"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

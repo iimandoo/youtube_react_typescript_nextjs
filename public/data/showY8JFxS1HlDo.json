@@ -1,0 +1,128 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vE1kh-MQ3vKDUyMpSpHQ4Ftt9Cs",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "q8tWhBIBEXTGnOv5dFSyfbascME",
+            "id": "Y8JFxS1HlDo",
+            "snippet": {
+                "publishedAt": "2022-04-05T09:00:09Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "IVE 아이브 'LOVE DIVE' MV",
+                "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "tags": [
+                    "Kpop",
+                    "girl group",
+                    "1theK",
+                    "Starshiptv",
+                    "starship",
+                    "뮤비",
+                    "티져",
+                    "MV",
+                    "Teaser",
+                    "신곡",
+                    "new",
+                    "song",
+                    "한류",
+                    "idol",
+                    "hallyu",
+                    "ロエン",
+                    "ミュージック",
+                    "ミュージックビデオ",
+                    "アイドル",
+                    "韓流",
+                    "韓国",
+                    "아이돌",
+                    "아이브",
+                    "IVE",
+                    "アイヴ",
+                    "LOGO",
+                    "MOTION",
+                    "로고",
+                    "유진",
+                    "원영",
+                    "가을",
+                    "레이",
+                    "리즈",
+                    "이서",
+                    "YUJIN",
+                    "GAEUL",
+                    "REI",
+                    "WONYOUNG",
+                    "LIZ",
+                    "LEESEO",
+                    "ユジン",
+                    "ガウル",
+                    "レイ",
+                    "ウォニョン",
+                    "リズ",
+                    "イソ",
+                    "LOVEDIVE",
+                    "러브다이브",
+                    "ROYAL",
+                    "로열",
+                    "티저",
+                    "TEASER",
+                    "뮤직비디오",
+                    "music video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "IVE 아이브 'LOVE DIVE' MV",
+                    "description": "IVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M59S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "193070223",
+                "likeCount": "2423077",
+                "favoriteCount": "0",
+                "commentCount": "122883"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

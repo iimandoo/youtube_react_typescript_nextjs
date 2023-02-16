@@ -1,0 +1,81 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "lDQT15UmE-P2Gy-ECJVcFINUFLU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "19ZhcjgBv9tqZeW9_3i3MeJKb-Y",
+            "id": "XfEZzUtdINI",
+            "snippet": {
+                "publishedAt": "2022-09-18T15:00:20Z",
+                "channelId": "UCCy_q-N7F2FOIZ6ZggHIAKg",
+                "title": "IVE 'ELEVEN -Japanese ver.-'Music Video",
+                "description": "■「ELEVEN - Japanese ver. -」先行配信中\n配信リンク：https://IVE.lnk.to/ELEVEN_JP\n\n■IVE Japan 1st Single「ELEVEN - Japanese ver. -」\n発売日：2022年10月19日(水)\n【ご予約はこちら】\nhttps://ive.lnk.to/ELEVEN\n\n＜商品情報＞\nI盤（初回限定）：CD+PHOTO BOOK (メンバー自撮りトレカtype-A封入)　￥1,800+税　/　KSCL-3390～91\nV盤（初回限定）：CD+Blu-ray (メンバー自撮りトレカtype-B封入)　￥2,200+税　/　 KSCL-3392～93\nE盤（通常盤）：CD  (メンバー自撮りトレカtype-C封入)　￥1,300+税　/　KSCL-3394\nFC盤（DIVE JAPAN会員限定販売）：CD+ハート型ミラー（トレカ封入） ￥2,200+税　/　KSC8-20~21\n\n＜収録内容＞\nCD（全形態共通）\n01. ELEVEN - Japanese ver. -\n他、未定\n\n【FC盤のご予約はこちら】\nhttps://www.asmart.jp/ive_sgdj\n\n■IVE JAPAN OFFICIAL SITE\nhttps://ive-official.jp\n\n■IVE SNS\nTwitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram: https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XfEZzUtdINI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sony Music (Japan)",
+                "tags": [
+                    "IVE",
+                    "ELEVEN",
+                    "LOVE DIVE",
+                    "After LIKE",
+                    "アイヴ",
+                    "アイブ",
+                    "イレブン"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ja",
+                "localized": {
+                    "title": "IVE 'ELEVEN -Japanese ver.-'Music Video",
+                    "description": "■「ELEVEN - Japanese ver. -」先行配信中\n配信リンク：https://IVE.lnk.to/ELEVEN_JP\n\n■IVE Japan 1st Single「ELEVEN - Japanese ver. -」\n発売日：2022年10月19日(水)\n【ご予約はこちら】\nhttps://ive.lnk.to/ELEVEN\n\n＜商品情報＞\nI盤（初回限定）：CD+PHOTO BOOK (メンバー自撮りトレカtype-A封入)　￥1,800+税　/　KSCL-3390～91\nV盤（初回限定）：CD+Blu-ray (メンバー自撮りトレカtype-B封入)　￥2,200+税　/　 KSCL-3392～93\nE盤（通常盤）：CD  (メンバー自撮りトレカtype-C封入)　￥1,300+税　/　KSCL-3394\nFC盤（DIVE JAPAN会員限定販売）：CD+ハート型ミラー（トレカ封入） ￥2,200+税　/　KSC8-20~21\n\n＜収録内容＞\nCD（全形態共通）\n01. ELEVEN - Japanese ver. -\n他、未定\n\n【FC盤のご予約はこちら】\nhttps://www.asmart.jp/ive_sgdj\n\n■IVE JAPAN OFFICIAL SITE\nhttps://ive-official.jp\n\n■IVE SNS\nTwitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram: https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
+                },
+                "defaultAudioLanguage": "ja"
+            },
+            "contentDetails": {
+                "duration": "PT3M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "9712521",
+                "likeCount": "304575",
+                "favoriteCount": "0",
+                "commentCount": "8676"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

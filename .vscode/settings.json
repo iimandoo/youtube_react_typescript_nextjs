@@ -1,0 +1,10 @@
+{
+  "javascript.format.enable": false,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "css.lint.unknownAtRules": "ignore",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
