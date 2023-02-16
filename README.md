@@ -10,3 +10,5 @@
 - Tailwindcss
 
 ## API
+- AXIOS
+- Youtube API
