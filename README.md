@@ -1,6 +1,5 @@
 # Youtube clone SSR project
-
-https://euneunyoutubessr.netlify.app/
+https://youtube-react-typescript-nextjs.vercel.app/
 
 ## 사용기술
 
@@ -11,5 +10,5 @@ https://euneunyoutubessr.netlify.app/
 - Tailwindcss
 
 ## API
-
-youtube api로 얻은 데이터를 json파일로 저장 후 axios 로 패칭
+- AXIOS
+- Youtube API
