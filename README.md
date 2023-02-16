@@ -1,5 +1,5 @@
 # Youtube clone SSR project
-
+https://youtube-react-typescript-nextjs.vercel.app/
 
 ## 사용기술
 
