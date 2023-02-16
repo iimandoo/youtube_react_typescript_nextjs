@@ -1,3 +1,3 @@
 export default class HostManager {
-  static readonly isLocal = true;
+  static readonly isLocal = false;
 }
