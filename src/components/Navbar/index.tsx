@@ -1,13 +1,12 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { IoLogoYoutube, IoIosSearch } from 'react-icons/io';
 
 export default function Navbar() {
   const router = useRouter();
-  const searchword = router.query.searchword?.toString();
-
-  const [searchWord, setSearchWord] = useState(searchword ?? '');
+  const [searchWord, setSearchWord] = useState('');
+  const searchword = router.query.searchword?.toString() ?? '';
 
   const handleSearchWordChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchWord(e.target.value);
@@ -17,6 +16,10 @@ export default function Navbar() {
     e.preventDefault();
     router.push(`/?searchword=${searchWord}`);
   };
+
+  useEffect(() => {
+    setSearchWord(searchword ?? '');
+  }, [searchword]);
 
   return (
     <nav className='navbar'>
