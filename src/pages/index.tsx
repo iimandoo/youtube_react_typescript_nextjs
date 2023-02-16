@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import { NextPageContext } from 'next';
-import { AxiosResponse } from 'axios';
+import Error from 'next/error';
 import { ErrorPageProps } from './_error';
 import { VideoModel, VideoSearchResponseModel } from 'models/videos/VideoModel';
 import VideosCard from 'components/common/card/VideosCard';
@@ -14,32 +14,35 @@ type Props = {
 
 const VideosPage: React.FC = (props: Props) => {
   if (props.error) {
-    return null;
+    return <Error statusCode={props.error.statusCode} />;
   }
 
   const title: string = `YOUTUBE`;
+
   return (
     <>
-      <Head>{title}</Head>
-      <section>
+      <Head>
+        <title>{title}</title>
+      </Head>
+      <div>
         <ul className='flex flex-row flex-wrap justify-start'>
           {props.data?.items.map((video: VideoModel) => {
             return <VideosCard key={video.id.videoId} item={video} />;
           })}
         </ul>
-      </section>
+      </div>
     </>
   );
 };
 
 export async function getServerSideProps(context: NextPageContext) {
-  const searchword = context?.query?.searchword?.toString() ?? 'bts';
-  const response: AxiosResponse = await getSearch(searchword);
+  const searchword = context?.query?.searchword?.toString() ?? '';
+  const response: any = await getSearch(searchword);
 
-  if (response.data) {
+  if (response?.data) {
     return {
       props: {
-        data: response.data,
+        data: response.data as [VideoSearchResponseModel],
       },
     };
   }
@@ -47,8 +50,8 @@ export async function getServerSideProps(context: NextPageContext) {
   return {
     props: {
       error: {
-        statusCode: response.status,
-        statusText: response.statusText,
+        statusCode: response.status ?? '',
+        statusText: response.statusText ?? '',
       } as ErrorPageProps,
     },
   };

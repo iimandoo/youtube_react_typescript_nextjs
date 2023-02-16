@@ -1,10 +1,10 @@
 import React from 'react';
 import Head from 'next/head';
 import { NextPageContext } from 'next';
-import { AxiosResponse } from 'axios';
+import Error from 'next/error';
 import { ErrorPageProps } from '../../_error';
 import { getShow } from 'api/videos/show';
-import { VideoShowResponseModel, VideoShowItemModel } from 'models/show/ShowModel';
+import { VideoShowResponseModel, VideoShowItemModel, VideoShowModel } from 'models/show/ShowModel';
 import Video from 'components/Video';
 import RelateVideos from 'components/RelateVideos';
 
@@ -15,15 +15,16 @@ type Props = {
 
 const ShowPage: React.FC = ({ error, data }: Props) => {
   if (error) {
-    return null;
+    return <Error statusCode={error.statusCode} />;
   }
 
-  const title = 'YOUTUBE';
   const item: VideoShowItemModel | undefined = data?.items.length ? data.items[0] : undefined;
 
   return (
     <>
-      <Head>{item?.snippet.title || title}</Head>
+      <Head>
+        <title>{item?.snippet.title}</title>
+      </Head>
       <section>
         <div className='flex flex-col lg:flex-row gap-2'>
           {item && <Video item={item} />}
@@ -36,12 +37,12 @@ const ShowPage: React.FC = ({ error, data }: Props) => {
 
 export async function getServerSideProps(context: NextPageContext) {
   const videoId = context?.query?.videoId?.toString();
-  const response: AxiosResponse = await getShow(videoId);
+  const response: any = await getShow(videoId);
 
   if (response?.data) {
     return {
       props: {
-        data: response.data,
+        data: response.data as [VideoShowModel],
       },
     };
   }
@@ -49,8 +50,8 @@ export async function getServerSideProps(context: NextPageContext) {
   return {
     props: {
       error: {
-        statusCode: response.status,
-        statusText: response.statusText,
+        statusCode: response.status ?? '',
+        statusText: response.statusText ?? '',
       } as ErrorPageProps,
     },
   };

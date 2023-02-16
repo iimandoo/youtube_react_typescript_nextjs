@@ -18,7 +18,8 @@ body {
   font-family: 'Nanum Gothic', 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  @apply text-sm text-gray-800 leading-4;
+  font-size: 14px;
+  @apply text-gray-800 leading-4;
 }
 * {
   box-sizing: border-box;
@@ -30,6 +31,7 @@ body {
   display: flex;
   justify-content: center;
   min-height: 0;
+  font-size: 1rem;
 }
 
 .video-card {
